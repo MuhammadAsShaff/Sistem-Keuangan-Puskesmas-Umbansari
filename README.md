@@ -129,7 +129,18 @@ Deskripsi Singkat Staff Keuangan melakukan login terlebih dahulu sebelum masuk k
 2.Sistem melakukan validasi login
 3.Bila sukses sistem akan mengarahkan ke halaman beranda
 4.Bila gagal sistem akan menampilkan peringatan untuk login ulang
+
 ##### 2.2.4 Staff keuangan mengelola data keuangan
+Use Case: Mengelola Data Keuangan <br>
+Diagram:
+<br>
+Deskripsi Singkat Staff Keuangan mengelola data keuangan setelah melakukan login pada sistem
+
+1.Staff Keuangan melakukan inputkan data pribadi dari masing masing pengguna
+2.Admin mengklik tombol simpan
+3.Sistem menyimpan data user
+4.Bila data sudah ada sistem akan menampilkan peringatan
+5.Dan bila data belum ada maka akan menampilkan pemberitahuan berhasil
 
 ##### 2.2.5 Admin melihat data kependudukan
 
