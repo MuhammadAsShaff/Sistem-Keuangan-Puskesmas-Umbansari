@@ -50,14 +50,51 @@ Pada sistem Management keuangan Puskesmas Umban Sari ini akan menampilkan grafik
 Sistem aplikasi Management Keuangan Puskesmas Umban Sari memiliki 3 user yaitu staff keuangan, staff biasa dan admin. Staff biasa mempunyai fungsi yaitu melakukan view grafik dan bisa view laporan. Admin bertugas untuk mengelola data User,dan staff keuangan mempunyaifungsi yaitu untuk memasukkan data keuangan Puskesmas Umban Sari
 
 ##### 2.1.2 Antarmuka pengguna
+
+- **Mockup Admin ( Website )**
+
 ##### 2.1.3 Antarmuka perangkat keras
+Antarmuka perangkat keras yang digunakan untuk mengoperasikan Perangkat Lunak Manajemen Keuangan Puskesmas Umban Sari   antara lain :
+
+PC / Laptop Untuk menjalankan Aplikasi ini admin membutuhkan sebuah PC yang menggunakan OS Windows, Linux, atau MAC dan sudah terinstall browser .
+
 ##### 2.1.4 Antarmuka perangkat lunak
+
+Tidak ada
+
 ##### 2.1.5 Antarmuka Komunikasi
+
+Antarmuka komunikasi yang digunakan untuk mengoperasikan Perangkat Lunak Manajemen Administrasi Data Kependudukan Desa Lohbener antara lain :
+
+1. Kabel Lan UTP RJ45
+2. Modem
+3. Wifi
+
 ##### 2.1.6 Batasan memori
+
+Tidak ada
+
 ##### 2.1.7 Operasi-operasi
+
+| Operasi | Fungsi |
+| ------ | ------ |
+|Login|Di gunakan untuk masuk dan mengakses sistem Manajemen Keuangan|
+|Input Data|Di gunakan untuk memasukkan data keuangan Puskesmas|
+|Kembali|Digunakan untuk kembali ke halaman sebelumnya|
+|Hapus|Menghapus Data Yang sudah di masukkan sebelumnya|
+|Edit|Di gunakan untuk mengubah data yang sebelumnyasudah di masukkan|
+|View|Digunakan untuk menampilkan data yang sudah di simpan|
+|Simpan|Digunakan untuk menyimpan data yang kita masukkan|
+|Cetak|Digunakan untuk mencetak pelaporan keuangan|
+
 ##### 2.1.8 Kebutuhan adaptasi
 
+Tidak ada
+
 ## 2.2 Spesifikasi Kebutuhan fungsional
+
+Use Case: Login
+Diagram:
 
 ##### 2.2.1 Kepala Desa Login
 ##### 2.2.2 Kepala desa melihat laporan kependudukan
