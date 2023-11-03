@@ -198,63 +198,103 @@ Logika Struktur terdapat pada bagian 3.3.1
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|        |        |
-|        |        |
+|    Xref    |        |
+|    Trigger    |        |
+|Precondition||
+|Basic Path||
+|Alternative||
+|Pos Condition||
+|Exception Push||
 
 
 ##### 3.2.2 Staff Keuangan Login
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|        |        |
-|        |        |
+|    Xref    |        |
+|    Trigger    |        |
+|Precondition||
+|Basic Path||
+|Alternative||
+|Pos Condition||
+|Exception Push||
 
 
 ##### 3.2.3 Staff Biasa Login
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|        |        |
-|        |        |
+|    Xref    |        |
+|    Trigger    |        |
+|Precondition||
+|Basic Path||
+|Alternative||
+|Pos Condition||
+|Exception Push||
 
 
 ##### 3.2.4 Admin Mengelola User
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|        |        |
-|        |        |
+|    Xref    |        |
+|    Trigger    |        |
+|Precondition||
+|Basic Path||
+|Alternative||
+|Pos Condition||
+|Exception Push||
 
 
 ##### 3.2.5 Staff Keuangan Mengelola data Keuangan
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|        |        |
-|        |        |
+|    Xref    |        |
+|    Trigger    |        |
+|Precondition||
+|Basic Path||
+|Alternative||
+|Pos Condition||
+|Exception Push||
 
 
 ##### 3.2.6 Staff Biasa Melihat Data Keuangan
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|        |        |
-|        |        |
+|    Xref    |        |
+|    Trigger    |        |
+|Precondition||
+|Basic Path||
+|Alternative||
+|Pos Condition||
+|Exception Push||
 
 
 ##### 3.2.7 Staff Keuangan Mencetak Laporan Keuangan
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|        |        |
-|        |        |
+|    Xref    |        |
+|    Trigger    |        |
+|Precondition||
+|Basic Path||
+|Alternative||
+|Pos Condition||
+|Exception Push||
 
 
 ##### 3.2.8 Staff Biasa Mencetak Laporan Keuangan
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|        |        |
-|        |        |
+|    Xref    |        |
+|    Trigger    |        |
+|Precondition||
+|Basic Path||
+|Alternative||
+|Pos Condition||
+|Exception Push||
 
 ## 3.3 Struktur Detail Kebutuhan Non-fungsional
 
