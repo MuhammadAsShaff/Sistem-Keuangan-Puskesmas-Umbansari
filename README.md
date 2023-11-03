@@ -1,15 +1,15 @@
-# Sistem Management Keuangan Puskesmas Umban Sari
+# Sistem Manajemen Keuangan Puskesmas Umban Sari
 
 
 
 # BAB I Pendahuluan
 
 ## 1.1 Tujuan
-Dokument Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Sistem Management Keuangan Puskesmas Umban Sari".Dokumen ini di bangun untuk membantu dan memudahkan Petugas kesehatan Puskesmas Umban Sari untuk mengatur dan memanage keuangan di Puskesmas.Sehingga Dokumen ini dapat di jadikan acuan membangun perangkat lunak "Sistem Management Keuangan Puskesmas Umban Sari"
+Dokument Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Sistem Manajemen Keuangan Puskesmas Umban Sari".Dokumen ini di bangun untuk membantu dan memudahkan Petugas kesehatan Puskesmas Umban Sari untuk mengatur dan memanage keuangan di Puskesmas.Sehingga Dokumen ini dapat di jadikan acuan membangun perangkat lunak "Sistem Manajemen Keuangan Puskesmas Umban Sari"
 
 
 ## 1.2 Lingkup
-Sistem Management Keuangan Puskesmas Umban Sari merupakan sistem yang kami bangun untuk memudahkan petugas Puskesmas Umban Sari dalam mengatur keuangan, baik itu pemasukan keuangan, pengeluaran dalam pemebelian obat obatan,pengeluaran untuk pembayaran gaji petugas,serta pengeluaran terhadap pemeliharaan rutin Puskesmas.
+Sistem Manajemen Keuangan Puskesmas Umban Sari merupakan sistem yang kami bangun untuk memudahkan petugas Puskesmas Umban Sari dalam mengatur keuangan, baik itu pemasukan keuangan, pengeluaran dalam pemebelian obat obatan,pengeluaran untuk pembayaran gaji petugas,serta pengeluaran terhadap pemeliharaan rutin Puskesmas.
 
 
 ## 1.3 Akronim,Singkatan,Definisi
@@ -30,7 +30,7 @@ Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:
 Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjelaskan gambaran umum dari aplikasi, sistem interface aplikasi dan alur sistemnya. Bab terakhir menjelaskan tentang setiap fungsi yang digunakan secara teknisnya. Pada bab 2 dan 3 merupakan deskripsi dari aplikasi yang akan diterapkan pada aplikasi yang dibuat.
 
 # BAB II Gambaran umum
-Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari .dalam studi kasus Proyek II ini kami menganalisis kebutuhan Puskesmas dalam memanage keuangan Puskesmas tersebut.Kasus yang kami peroleh yaitu Sistem Management Keuangan Puskesmas. Maka dari itu kami sebagai software engineering merancang sebuah sistem sesuai dengan kebutuhan Kepala Puskesmas dengan menerapkan Sistem Management Keuangan Puskesmas Umban Sari. Sehingga memudahkan Petugas Puskesmas dalam mengelola keuangan.Software yang kami buat ini berbasis website dimana website sebagai admin itu petugas keuangan. Sistem yang kami buat di dalamnya terdapat
+Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari .dalam studi kasus Proyek II ini kami menganalisis kebutuhan Puskesmas dalam memanage keuangan Puskesmas tersebut.Kasus yang kami peroleh yaitu Sistem Manajemen Keuangan Puskesmas. Maka dari itu kami sebagai software engineering merancang sebuah sistem sesuai dengan kebutuhan Kepala Puskesmas dengan menerapkan Sistem Manajemen Keuangan Puskesmas Umban Sari. Sehingga memudahkan Petugas Puskesmas dalam mengelola keuangan.Software yang kami buat ini berbasis website dimana website sebagai admin itu petugas keuangan. Sistem yang kami buat di dalamnya terdapat
 (Daftar keuangan masuk,keuangan keluar masih ragu).Berikut akan kami jelaskan sistem software kami, Petugas fungsi utama yaitu :
 - Input
 - Input 
@@ -42,12 +42,12 @@ Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah sat
 - Input
 
 ## 2.1 Perspektif produk
-Management Keuangan Puskesmas Umban Sari adalah sebuah Sistem Management Keuangan Puskesmas yang di aplikasiskan pada website. Terdapat 3 jenis yaitu admin,staff Keuangan dan staff biasa. Pengolahan data user di kelola oleh admin, pengolahan keuangan dikelola oleh staff keuangan,staff dan kepala Puskesmas hanya melihat grafik dan laporan pada website.
+Manajemen Keuangan Puskesmas Umban Sari adalah sebuah Sistem Manajemen Keuangan Puskesmas yang di aplikasiskan pada website. Terdapat 3 jenis yaitu admin,staff Keuangan dan staff biasa. Pengolahan data user di kelola oleh admin, pengolahan keuangan dikelola oleh staff keuangan,staff dan kepala Puskesmas hanya melihat grafik dan laporan pada website.
 
-Pada sistem Management keuangan Puskesmas Umban Sari ini akan menampilkan grafik keuangan masuk dan keluar yang sudah di inputkan oleh staff keuangan
+Pada sistem Manajemen keuangan Puskesmas Umban Sari ini akan menampilkan grafik keuangan masuk dan keluar yang sudah di inputkan oleh staff keuangan
 
 ##### 2.1.1 Antarmuka sistem
-Sistem aplikasi Management Keuangan Puskesmas Umban Sari memiliki 3 user yaitu staff keuangan, staff biasa dan admin. Staff biasa mempunyai fungsi yaitu melakukan view grafik dan bisa view laporan. Admin bertugas untuk mengelola data User,dan staff keuangan mempunyaifungsi yaitu untuk memasukkan data keuangan Puskesmas Umban Sari
+Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu staff keuangan, staff biasa dan admin. Staff biasa mempunyai fungsi yaitu melakukan view grafik dan bisa view laporan. Admin bertugas untuk mengelola data User,dan staff keuangan mempunyaifungsi yaitu untuk memasukkan data keuangan Puskesmas Umban Sari
 
 ##### 2.1.2 Antarmuka pengguna
 
