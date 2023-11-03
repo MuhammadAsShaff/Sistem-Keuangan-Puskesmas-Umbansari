@@ -5,6 +5,9 @@
 ## BAB I Pendahuluan
 
 ## 1.1 Tujuan
+Dokument Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Sistem Management Keuangan Puskesmas Umban Sari".Dokumen ini di bangun untuk membantu dan memudahkan Petugas kesehatan Puskesmas Umban Sari untuk mengatur dan memanage keuangan di Puskesmas.Sehingga Dokumen ini dapat di jadikan acuan membangun perangkat lunak "Sistem Management Keuangan Puskesmas Umban Sari"
+
+
 ## 1.2 Lingkup
 ## 1.3 Akronim, singkatan, definisi
 ## 1.4 Referensi
