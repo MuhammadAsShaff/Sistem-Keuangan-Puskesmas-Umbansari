@@ -47,6 +47,8 @@ Management Keuangan Puskesmas Umban Sari adalah sebuah Sistem Management Keuanga
 Pada sistem Management keuangan Puskesmas Umban Sari ini akan menampilkan grafik keuangan masuk dan keluar yang sudah di inputkan oleh staff keuangan
 
 ##### 2.1.1 Antarmuka sistem
+Sistem aplikasi Management Keuangan Puskesmas Umban Sari memiliki 3 user yaitu staff keuangan, staff biasa dan admin. Staff biasa mempunyai fungsi yaitu melakukan view grafik dan bisa view laporan. Admin bertugas untuk mengelola data User,dan staff keuangan mempunyaifungsi yaitu untuk memasukkan data keuangan Puskesmas Umban Sari
+
 ##### 2.1.2 Antarmuka pengguna
 ##### 2.1.3 Antarmuka perangkat keras
 ##### 2.1.4 Antarmuka perangkat lunak
