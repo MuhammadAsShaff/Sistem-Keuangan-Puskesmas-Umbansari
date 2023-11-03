@@ -188,4 +188,75 @@ Tidak Ada
 
 # BAB III Requirement specification
 
+## 3.1 Persyaratan Antarmuka Eksternal
+Salah satu cara mengakses aplikasi ini yaitu dengan hak akses yang di berikan oleh admmin, login melalui aplikasi ini dengan mencantumkan username kemudian sistem akan mencocokkan username Staff Keuangan dan Staff Biasa. Setelah login berhasil Staff Biasa melihat grafik Keuangan Puskesmas Umban Sari di aplikasi tersebut dan juga dapat melakukan pencetakan hasil pelaporan keuangan selama sebuan/pertahunnya.
 
+## 3.2 Functional Requirement
+Logika Struktur terdapat pada bagian 3.3.1
+
+##### 3.2.1 Admin Login
+
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|        |        |
+|        |        |
+
+
+##### 3.2.2 Staff Keuangan Login
+
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|        |        |
+|        |        |
+
+
+##### 3.2.3 Staff Biasa Login
+
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|        |        |
+|        |        |
+
+
+##### 3.2.4 Admin Mengelola User
+
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|        |        |
+|        |        |
+
+
+##### 3.2.5 Staff Keuangan Mengelola data Keuangan
+
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|        |        |
+|        |        |
+
+
+##### 3.2.6 Staff Biasa Melihat Data Keuangan
+
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|        |        |
+|        |        |
+
+
+##### 3.2.7 Staff Keuangan Mencetak Laporan Keuangan
+
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|        |        |
+|        |        |
+
+
+##### 3.2.8 Staff Biasa Mencetak Laporan Keuangan
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|        |        |
+|        |        |
+
+## 3.3 Struktur Detail Kebutuhan Non-fungsional
+
+##### 3.3.1 Logika Struktur Data<br>
+Struktur data logika pada sistem Aplikasi presensi menggunakan kehadiran terdapat struktur Database yang dijelaskan menggunakan ERD.
