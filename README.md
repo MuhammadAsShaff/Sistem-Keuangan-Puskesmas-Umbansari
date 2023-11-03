@@ -161,9 +161,9 @@ Deskripsi Singkat Staff Keuangan mengelola data keuangan setelah melakukan login
 
 ##### 2.2.6 Staff Biasa Melihat Data Keuangan
 
-#### 2.2.7 Staff Keuangan Mencetak Laporan Keuangan
+##### 2.2.7 Staff Keuangan Mencetak Laporan Keuangan
 
-#### 2.2.8 Staff Biasa Mencetak Laporan Keuangan
+##### 2.2.8 Staff Biasa Mencetak Laporan Keuangan
 
 
 
