@@ -21,7 +21,12 @@ Sistem Management Keuangan Puskesmas Umban Sari merupakan sistem yang kami bangu
 
 
 ## 1.4 Referensi
+Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:
+- blabla
+
+
 ## 1.5 Overview
+Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjelaskan gambaran umum dari aplikasi, sistem interface aplikasi dan alur sistemnya. Bab terakhir menjelaskan tentang setiap fungsi yang digunakan secara teknisnya. Pada bab 2 dan 3 merupakan deskripsi dari aplikasi yang akan diterapkan pada aplikasi yang dibuat.
 
 ## BAB II Gambaran umum
 
