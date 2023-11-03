@@ -93,11 +93,30 @@ Tidak ada
 
 ## 2.2 Spesifikasi Kebutuhan fungsional
 
+##### 2.2.1 Admin Login
 Use Case: Login <br>
 Diagram:
+<br>
+Deskripsi Singkat Admin melakukan login terlebih dahulu sebelum masuk ke tampilan home
 
-##### 2.2.1 Kepala Desa Login
-##### 2.2.2 Kepala desa melihat laporan kependudukan
+1.Admin melakukan login dengan username dan password
+2.Sistem melakukan validasi login
+3.Bila sukses sistem akan mengarahkan ke halaman beranda
+4.Bila gagal sistem akan menampilkan peringatan untuk login ulang
+
+Xref: Bagian 3.2.1, Login Kepala Desa
+
+##### 2.2.2 Admin Mengelola data user sistem 
+
+Use Case: Mengelola user <br>
+Diagram:
+<br>
+Deskripsi Singkat Admin mengelola data setelah melakukan login pada sistem
+
+1.Admin melakukan inputkan data pribadi dari masing masing pengguna
+2.Sistem melakukan validasi login
+3.Bila sukses sistem akan mengarahkan ke halaman beranda
+4.Bila gagal sistem akan menampilkan peringatan untuk login ulang
 ##### 2.2.3 Admin login
 ##### 2.2.4 Admin input data kependudukan
 ##### 2.2.5 Admin melihat data kependudukan
