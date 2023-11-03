@@ -93,7 +93,7 @@ Tidak ada
 
 ## 2.2 Spesifikasi Kebutuhan fungsional
 
-Use Case: Login
+Use Case: Login <br>
 Diagram:
 
 ##### 2.2.1 Kepala Desa Login
