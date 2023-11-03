@@ -9,6 +9,9 @@ Dokument Software Requirement Specification (SRS) merupakan dokumen spesifikasi 
 
 
 ## 1.2 Lingkup
+Sistem Management Keuangan Puskesmas Umban Sari merupakan sistem yang kami bangun untuk memudahkan petugas Puskesmas Umban Sari dalam mengatur keuangan, baik itu pemasukan keuangan, pengeluaran dalam pemebelian obat obatan,pengeluaran untuk pembayaran gaji petugas,serta pengeluaran terhadap pemeliharaan rutin Puskesmas.
+
+
 ## 1.3 Akronim, singkatan, definisi
 ## 1.4 Referensi
 ## 1.5 Overview
