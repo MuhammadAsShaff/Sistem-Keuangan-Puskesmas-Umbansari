@@ -167,10 +167,11 @@ Deskripsi Singkat Staff Keuangan mengelola data keuangan setelah melakukan login
 
 ## 2.3 Spesifikasi Kebutuhan non-fungsional
 - Tabel Kebutuhan Non-Fungsional
+
 | No | 	Deskripsi |
 | ------ | ------ |
-|      1  |    Semua interface dan fungsi menggunakan Bahasa Indonesia  |
-|    2    |  Perangkat Lunak dapat dipakai di semua platofrm OS ( Admin, Staff Keuangan dan Staff Biasa ) |
+| 1  |    Semua interface dan fungsi menggunakan Bahasa Indonesia  |
+| 2   |  Perangkat Lunak dapat dipakai di semua platofrm OS ( Admin, Staff Keuangan dan Staff Biasa ) |
 
 
 ## 2.4 Karakteristik pengguna
