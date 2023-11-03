@@ -17,6 +17,7 @@ Sistem Management Keuangan Puskesmas Umban Sari merupakan sistem yang kami bangu
 | ------ | ------ |
 | SRS |  Software Requirement Specification |
 | Software Requirement Specification  | Dokumen yang menggambarkan secara rinci kebutuhan fungsional dan non-fungsional dari sistem yang kita kembangkan |
+|Usecase|Situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda|
 
 
 ## 1.4 Referensi
