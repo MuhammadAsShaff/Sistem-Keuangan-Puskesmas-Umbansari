@@ -106,20 +106,8 @@ Deskripsi Singkat Admin melakukan login terlebih dahulu sebelum masuk ke tampila
 
 Xref: Bagian 3.2.1, Login Kepala Desa
 
-##### 2.2.2 Admin Mengelola data user sistem 
+##### 2.2.2 Staff Keuangan Login
 
-Use Case: Mengelola user <br>
-Diagram:
-<br>
-Deskripsi Singkat Admin mengelola data user setelah melakukan login pada sistem
-
-1.Admin melakukan inputkan data pribadi dari masing masing pengguna
-2.Admin mengklik tombol simpan
-3.Sistem menyimpan data user
-4.Bila data sudah ada sistem akan menampilkan peringatan
-5.Dan bila data belum ada maka akan menampilkan pemberitahuan berhasil
-
-##### 2.2.3 Staff Keuangan Login
 Use Case: Login <br>
 Diagram:
 <br>
@@ -130,8 +118,35 @@ Deskripsi Singkat Staff Keuangan melakukan login terlebih dahulu sebelum masuk k
 3.Bila sukses sistem akan mengarahkan ke halaman beranda
 4.Bila gagal sistem akan menampilkan peringatan untuk login ulang
 
-##### 2.2.4 Staff keuangan mengelola data keuangan
-Use Case: Mengelola Data Keuangan <br>
+<!-- Use Case: Mengelola user <br>
+Diagram:
+<br>
+Deskripsi Singkat Admin mengelola data user setelah melakukan login pada sistem
+
+1.Admin melakukan inputkan data pribadi dari masing masing pengguna
+2.Admin mengklik tombol simpan
+3.Sistem menyimpan data user
+4.Bila data sudah ada sistem akan menampilkan peringatan
+5.Dan bila data belum ada maka akan menampilkan pemberitahuan berhasil -->
+
+##### 2.2.3 Staff Biasa Login
+
+Use Case: Login <br>
+Diagram:
+<br>
+Deskripsi Singkat Staff Biasa melakukan login terlebih dahulu sebelum masuk ke tampilan home
+
+1.Staff Biasa melakukan login dengan username dan password
+2.Sistem melakukan validasi login
+3.Bila sukses sistem akan mengarahkan ke halaman beranda
+4.Bila gagal sistem akan menampilkan peringatan untuk login ulang
+
+##### 2.2.4 Admin Mengelola User
+
+
+
+
+<!-- Use Case: Mengelola Data Keuangan <br>
 Diagram:
 <br>
 Deskripsi Singkat Staff Keuangan mengelola data keuangan setelah melakukan login pada sistem
@@ -140,8 +155,15 @@ Deskripsi Singkat Staff Keuangan mengelola data keuangan setelah melakukan login
 2.Admin mengklik tombol simpan
 3.Sistem menyimpan data user
 4.Bila data sudah ada sistem akan menampilkan peringatan
-5.Dan bila data belum ada maka akan menampilkan pemberitahuan berhasil
+5.Dan bila data belum ada maka akan menampilkan pemberitahuan berhasil -->
 
-##### 2.2.5 Admin melihat data kependudukan
+##### 2.2.5 Staff Keuangan Mengelola data Keuangan
+
+##### 2.2.6 Staff Biasa Melihat Data Keuangan
+
+#### 2.2.7 Staff Keuangan Mencetak Laporan Keuangan
+
+#### 2.2.8 Staff Biasa Mencetak Laporan Keuangan
+
 
 
