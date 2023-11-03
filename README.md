@@ -99,10 +99,10 @@ Diagram:
 <br>
 Deskripsi Singkat Admin melakukan login terlebih dahulu sebelum masuk ke tampilan home
 
-1.Admin melakukan login dengan username dan password
-2.Sistem melakukan validasi login
-3.Bila sukses sistem akan mengarahkan ke halaman beranda
-4.Bila gagal sistem akan menampilkan peringatan untuk login ulang
+1. Admin melakukan login dengan username dan password
+2. Sistem melakukan validasi login
+3. Bila sukses sistem akan mengarahkan ke halaman beranda
+4. Bila gagal sistem akan menampilkan peringatan untuk login ulang
 
 Xref: Bagian 3.2.1, Login Kepala Desa
 
@@ -113,10 +113,10 @@ Diagram:
 <br>
 Deskripsi Singkat Staff Keuangan melakukan login terlebih dahulu sebelum masuk ke tampilan home
 
-1.Staff Keuangan melakukan login dengan username dan password
-2.Sistem melakukan validasi login
-3.Bila sukses sistem akan mengarahkan ke halaman beranda
-4.Bila gagal sistem akan menampilkan peringatan untuk login ulang
+1. Staff Keuangan melakukan login dengan username dan password
+2. Sistem melakukan validasi login
+3. Bila sukses sistem akan mengarahkan ke halaman beranda
+4. Bila gagal sistem akan menampilkan peringatan untuk login ulang
 
 <!-- Use Case: Mengelola user <br>
 Diagram:
@@ -136,10 +136,10 @@ Diagram:
 <br>
 Deskripsi Singkat Staff Biasa melakukan login terlebih dahulu sebelum masuk ke tampilan home
 
-1.Staff Biasa melakukan login dengan username dan password
-2.Sistem melakukan validasi login
-3.Bila sukses sistem akan mengarahkan ke halaman beranda
-4.Bila gagal sistem akan menampilkan peringatan untuk login ulang
+1.  Biasa melakukan login dengan username dan password
+2. Sistem melakukan validasi login
+3. Bila sukses sistem akan mengarahkan ke halaman beranda
+4. Bila gagal sistem akan menampilkan peringatan untuk login ulang
 
 ##### 2.2.4 Admin Mengelola User
 
