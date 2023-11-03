@@ -2,7 +2,7 @@
 
 
 
-## BAB I Pendahuluan
+# BAB I Pendahuluan
 
 ## 1.1 Tujuan
 Dokument Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun "Sistem Management Keuangan Puskesmas Umban Sari".Dokumen ini di bangun untuk membantu dan memudahkan Petugas kesehatan Puskesmas Umban Sari untuk mengatur dan memanage keuangan di Puskesmas.Sehingga Dokumen ini dapat di jadikan acuan membangun perangkat lunak "Sistem Management Keuangan Puskesmas Umban Sari"
@@ -29,7 +29,7 @@ Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:
 ## 1.5 Overview
 Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjelaskan gambaran umum dari aplikasi, sistem interface aplikasi dan alur sistemnya. Bab terakhir menjelaskan tentang setiap fungsi yang digunakan secara teknisnya. Pada bab 2 dan 3 merupakan deskripsi dari aplikasi yang akan diterapkan pada aplikasi yang dibuat.
 
-## BAB II Gambaran umum
+# BAB II Gambaran umum
 Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari .dalam studi kasus Proyek II ini kami menganalisis kebutuhan Puskesmas dalam memanage keuangan Puskesmas tersebut.Kasus yang kami peroleh yaitu Sistem Management Keuangan Puskesmas. Maka dari itu kami sebagai software engineering merancang sebuah sistem sesuai dengan kebutuhan Kepala Puskesmas dengan menerapkan Sistem Management Keuangan Puskesmas Umban Sari. Sehingga memudahkan Petugas Puskesmas dalam mengelola keuangan.Software yang kami buat ini berbasis website dimana website sebagai admin itu petugas keuangan. Sistem yang kami buat di dalamnya terdapat
 (Daftar keuangan masuk,keuangan keluar masih ragu).Berikut akan kami jelaskan sistem software kami, Petugas fungsi utama yaitu :
 - Input
@@ -165,5 +165,27 @@ Deskripsi Singkat Staff Keuangan mengelola data keuangan setelah melakukan login
 
 ##### 2.2.8 Staff Biasa Mencetak Laporan Keuangan
 
+## 2.3 Spesifikasi Kebutuhan non-fungsional
+- Tabel Kebutuhan Non-Fungsional
+| No | 	Deskripsi |
+| ------ | ------ |
+|      1  |    Semua interface dan fungsi menggunakan Bahasa Indonesia  |
+|    2    |  Perangkat Lunak dapat dipakai di semua platofrm OS ( Admin, Staff Keuangan dan Staff Biasa ) |
+
+
+## 2.4 Karakteristik pengguna
+Karakteristik pengguna dari perangkat lunak ini adalah pengguna langsung berinteraksi dengan sistem tanpa harus dihubungkan dengan hak akses atau level autentikasi.
+
+## 2.5 Batasan-batasan
+- Perangkat lunak web hanya dijalankan di windows (7,8,10).
+- Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan.
+
+## 2.6 Asumsi-asumsi
+Maksimal penginputan id atau memasukkan kode pada aplikasi ini adalah 9999, lebih dari itu program akan muncul peringatan"Anda telah melebihi batas maksimum".
+
+## 2.7 Kebutuhan Penyeimbang
+Tidak Ada
+
+# BAB III Requirement specification
 
 
