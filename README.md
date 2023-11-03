@@ -42,6 +42,9 @@ Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah sat
 - Input
 
 ## 2.1 Perspektif produk
+Management Keuangan Puskesmas Umban Sari adalah sebuah Sistem Management Keuangan Puskesmas yang di aplikasiskan pada website. Terdapat 3 jenis yaitu admin,staff Keuangan dan staff biasa. Pengolahan data user di kelola oleh admin, pengolahan keuangan dikelola oleh staff keuangan,staff dan kepala Puskesmas hanya melihat grafik dan laporan pada website.
+
+Pada sistem Management keuangan Puskesmas Umban Sari ini akan menampilkan grafik keuangan masuk dan keluar yang sudah di inputkan oleh staff keuangan
 
 ##### 2.1.1 Antarmuka sistem
 ##### 2.1.2 Antarmuka pengguna
