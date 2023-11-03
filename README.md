@@ -13,6 +13,11 @@ Sistem Management Keuangan Puskesmas Umban Sari merupakan sistem yang kami bangu
 
 
 ## 1.3 Akronim, singkatan, definisi
+| Istilah| Definisi |
+| ------ | ------ |
+|    SRS    |  Software Requirement Specification      |
+|        |        |
+
 ## 1.4 Referensi
 ## 1.5 Overview
 
