@@ -18,6 +18,7 @@ Sistem Management Keuangan Puskesmas Umban Sari merupakan sistem yang kami bangu
 | SRS |  Software Requirement Specification |
 | Software Requirement Specification  | Dokumen yang menggambarkan secara rinci kebutuhan fungsional dan non-fungsional dari sistem yang kita kembangkan |
 |Usecase|Situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda|
+|Login|Digunakan untuk mengakses aplikasi|
 
 
 ## 1.4 Referensi
@@ -30,7 +31,15 @@ Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjela
 
 ## BAB II Gambaran umum
 Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari .dalam studi kasus Proyek II ini kami menganalisis kebutuhan Puskesmas dalam memanage keuangan Puskesmas tersebut.Kasus yang kami peroleh yaitu Sistem Management Keuangan Puskesmas. Maka dari itu kami sebagai software engineering merancang sebuah sistem sesuai dengan kebutuhan Kepala Puskesmas dengan menerapkan Sistem Management Keuangan Puskesmas Umban Sari. Sehingga memudahkan Petugas Puskesmas dalam mengelola keuangan.Software yang kami buat ini berbasis website dimana website sebagai admin itu petugas keuangan. Sistem yang kami buat di dalamnya terdapat
-(Daftar keuangan masuk,keuangan keluar masih ragu).Berikut akan kami jelaskan sistem software kami, Mahasiswa fungsi utama yaitu :
+(Daftar keuangan masuk,keuangan keluar masih ragu).Berikut akan kami jelaskan sistem software kami, Petugas fungsi utama yaitu :
+- Input
+- Input 
+- Input
+- Input
+- Input
+- Input
+- Input
+- Input
 
 ## 2.1 Perspektif produk
 
