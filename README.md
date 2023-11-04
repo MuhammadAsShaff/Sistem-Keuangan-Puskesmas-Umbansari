@@ -3,7 +3,7 @@
 # <br> <br>PROPOSAL WORKSHOP <br> PEMROGRAMAN FRAMEWORK <br><br><br>
 
 
-##### 6 November 2023
+<!-- ##### 6 November 2023 -->
 
  <img width="600" src="image/Logo_Politeknik_Caltex_Riau.png" alt="PCR">
 
