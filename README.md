@@ -19,22 +19,16 @@ KELAS
 
 <br><br>
 
-## DOSEN PENGAMPU : 
-
-<br>
-
+DOSEN PENGAMPU : <br>
 Muhammad Mahrus Zain,S.S.T., M.T.I.<br>
-## AIL : 
-
+AIL : 
 <br>
 Nur  Mufidah, S.Tr.Kom 
-
 <br><br><br>
 
 ### PROGRAM STUDI SISTEM INFORMASI <br> POLITEKNIK CALTEX RIAU TA 2023 / 2024
 
 </div>
-
 
 # BAB I Pendahuluan
 
