@@ -20,13 +20,9 @@ KELAS
 <br><br>
 
 ### DOSEN PENGAMPU : 
-
-<br>
 Muhammad Mahrus Zain,S.S.T., M.T.I.<br>
 
 ### AIL : 
-
-<br>
 Nur  Mufidah, S.Tr.Kom 
 <br><br><br>
 
