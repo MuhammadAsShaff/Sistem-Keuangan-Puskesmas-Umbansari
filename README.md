@@ -182,6 +182,14 @@ Deskripsi Singkat Sistem akan menampilkan dashboard admin yang di mana akan mena
 
 ##### 2.2.5 Staff Keuangan Mengelola data Keuangan
 
+Use Case: Admin Mengelola User <br>
+Diagram:![alt text](image/staffKeuanganMengelolaDataKeuangan.jpg?raw=true)
+<br>
+Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana akan menampilkan sidebar<br>
+
+1. Staff keuangan Mengklik menu data pemasukan,Kemudian mengklik tambah data dan
+
+
 ##### 2.2.6 Staff Biasa Melihat Data Keuangan
 
 ##### 2.2.7 Staff Keuangan Mencetak Laporan Keuangan
