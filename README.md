@@ -115,7 +115,7 @@ Tidak ada
 Tidak ada
 
 ## 2.2 Spesifikasi Kebutuhan fungsional
-
+![alt text](image/UseCaseDiagram.jpg?raw=true)
 ##### 2.2.1 Admin Login
 Use Case: Login <br>
 Diagram:
