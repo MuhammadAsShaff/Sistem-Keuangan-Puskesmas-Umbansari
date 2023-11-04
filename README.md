@@ -1,16 +1,16 @@
 <div align="center">
 
-# PROPOSAL WORKSHOP PEMROGRAMAN <br> FRAMEWORK SISTEM PENDATAAN PASIEN
+# PROPOSAL WORKSHOP <br> PEMROGRAMAN FRAMEWORK <br> SISTEM MANAJEMEN KEUANGAN PUSKESMAS UMBAN SARI
 
 
 ##### 6 November 2023
 
  <img width="600" src="image/Logo_Politeknik_Caltex_Riau.png" alt="PCR">
 
-#### Sistem Manajemen Keuangan Puskesmas Umban Sari 
+#### Sistem Manajemen <br> Keuangan Puskesmas Umban Sari 
 <br><br><br>
 
-##Kelompok 6 <br>
+Kelompok 6 <br>
 Muhammad As Shaff (2257301088)<br>
 Yoga Hermanda (2257301135)<br>
 Indah Novitriani (2257301139)<br>
@@ -19,14 +19,14 @@ KELAS
 
 <br><br>
 
-### DOSEN PENGAMPU : 
+DOSEN PENGAMPU : <br> 
 Muhammad Mahrus Zain,S.S.T., M.T.I.<br>
 
-### AIL : 
+AIL : <br>
 Nur  Mufidah, S.Tr.Kom 
 <br><br><br>
 
-### PROGRAM STUDI SISTEM INFORMASI <br> POLITEKNIK CALTEX RIAU TA 2023 / 2024
+### PROGRAM STUDI SISTEM INFORMASI <br> POLITEKNIK CALTEX RIAU <br> TA 2023 / 2024
 
 </div>
 
