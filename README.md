@@ -132,7 +132,9 @@ Tidak ada
 Tidak ada
 
 ## 2.2 Spesifikasi Kebutuhan fungsional
+
 ![alt text](image/UseCaseDiagram.jpg?raw=true)
+
 ##### 2.2.1 Admin Login
 Use Case: Login <br>
 Diagram:![alt text](image/adminLogin.jpg?raw=true)
@@ -283,39 +285,39 @@ Logika Struktur terdapat pada bagian 3.3.1
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|    Xref    |        |
-|    Trigger    |        |
-|Precondition||
-|Basic Path||
-|Alternative||
-|Pos Condition||
-|Exception Push||
+|Xref|   Bagian 2.2.1 Admin Login     |
+|Trigger|Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari|
+|Precondition|Halman Login|
+|Basic Path| 1. Admin mengisi form login dengan E-Mail dan password<br>2. Admin mengklik tombol login<br>3. Sistem melakukan validasi login<br>4. Bila sukses sistem akan mengarahkan ke halaman beranda pengelolaan user<br>5. Bila gagal sistem akan menampilkan peringatan gagal<br>6. Sistem membawa kembali ke halaman login bila gagal|
+|Alternative|Tidak ada|
+|Pos Condition|Admin dapat login dan mengakses aplikasi di bagian Manajemen Keuangan Puskesmas Umban Sari dibagian pengelolaan user|
+|Exception Push|E-Mail dan password salah|
 
 
 ##### 3.2.2 Staff Keuangan Login
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|    Xref    |        |
-|    Trigger    |        |
-|Precondition||
-|Basic Path||
-|Alternative||
-|Pos Condition||
-|Exception Push||
+|    Xref|Bagian 2.2.2 Staff Keuangan Login|
+|    Trigger    |      Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari  |
+|Precondition|Halman Login|
+|Basic Path|1. Staff keuangan mengisi form login dengan E-Mail dan password<br>2. Staff Keuangan mengklik tombol login<br> 3. Sistem melakukan validasi login<br>4. Bila sukses sistem akan mengarahkan ke halaman beranda pengelolaan keuangan Puskesmas <br> 5. Bila gagal sistem akan menampilkan peringatan gagal<br>6. Sistem akan membawa kembali ke halaman login bila gagal|
+|Alternative|Tidak ada|
+|Pos Condition|Staff Keuangan dapat login dan mengakses aplikasi di bagian Manajemen Keuangan Puskesmas Umban Sari di bagian pengelolaan Data Keuangan|
+|Exception Push|E-Mail dan password salah|
 
 
 ##### 3.2.3 Staff Biasa Login
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|    Xref    |        |
-|    Trigger    |        |
-|Precondition||
-|Basic Path||
-|Alternative||
-|Pos Condition||
-|Exception Push||
+|    Xref    |  Bagian 2.2.3 Staff Biasa Login      |
+|    Trigger    | Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari|
+|Precondition|Halman Login|
+|Basic Path|1. Staff Biasa mengisi form login dengan E-Mail dan password<br>2. Staff biasa mengklik tombol login<br>3. Sistem melakukanvalidasi login<br>4. Bila sukses sistem akan menampilkan peringatan gagal<br>5. Bila gagal sistem akan menampilkan peringatan gagal<br>6. Sistem akan membawa kembali ke halaman login bila gagal|
+|Alternative|Tidak ada|
+|Pos Condition|Staff biasa dapat login dan mengakses aplikasi di bagian Manajemen Keuangan Puskesmas Umban Sari di bagian menampilkan grafik dan data keuangan |
+|Exception Push|E-Mail dan password salah|
 
 
 ##### 3.2.4 Admin Mengelola User
