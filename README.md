@@ -187,8 +187,17 @@ Diagram:![alt text](image/staffKeuanganMengelolaDataKeuangan.jpg?raw=true)
 <br>
 Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana akan menampilkan sidebar<br>
 
-1. Staff keuangan Mengklik menu data pemasukan,Kemudian mengklik tambah data dan
+- Untuk Data Pemasukan
+1. Staff keuangan Mengklik menu data pemasukan,Kemudian mengklik tambah data dan menginputkan tanggal pemasukan,keterangan pemasukan,sumber pemasukan,jumlah pemasukan kemudian klik tambah data 
+2. Sistem akan menyimpan data user yang telah di inputkan, serta akan menampilkan data pemasukan yang telah diinputkan 
+3. Staff bisa menghapus data pemasukan 
+4. Staff juga bisa megedit data pemasukan
 
+- Untuk Data pengeluaran
+1. Staff keuangan Mengklik menu data pengeluaran,Kemudian mengklik tambah data dan menginputkan tanggal pengeluaran,keterangan pengeluaran,sumber pengeluaran,jumlah pengeluaran kemudian klik tambah data 
+2. Sistem akan menyimpan data user yang telah di inputkan, serta akan menampilkan data pemasukan yang telah diinputkan 
+3. Staff bisa menghapus data pengeluaran 
+4. Staff juga bisa megedit data pengeluaran
 
 ##### 2.2.6 Staff Biasa Melihat Data Keuangan
 
