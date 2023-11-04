@@ -18,9 +18,15 @@ KELAS
 2 SIA
 
 <br><br>
-##DOSEN PENGAMPU : <br>
+
+## DOSEN PENGAMPU : 
+
+<br>
+
 Muhammad Mahrus Zain,S.S.T., M.T.I.<br>
-##AIL : <br>
+## AIL : 
+
+<br>
 Nur  Mufidah, S.Tr.Kom 
 
 <br><br><br>
