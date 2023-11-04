@@ -202,7 +202,7 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana 
 ##### 2.2.6 Staff Biasa Melihat Data Keuangan
 
 Use Case: Staff Biasa Melihat data Keuangan <br>
-Diagram:![alt text](image/staffKeuanganMengelolaDataKeuangan.jpg?raw=true)
+Diagram:![alt text](image/staffBiasaMelihatDataKeuangan.jpg?raw=true)
 <br>
 Deskripsi Singkat Sistem akan menampilkan dashboard Staff biasa<br>
 
