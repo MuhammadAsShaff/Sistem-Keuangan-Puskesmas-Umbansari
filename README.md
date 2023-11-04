@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sistem Manajemen Keuangan Puskesmas Umban Sari 
+# Software Requirements Spesification
 
 ##### 6 November 2023
 
