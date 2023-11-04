@@ -8,6 +8,11 @@
 
 #### Sistem Manajemen Keuangan Puskesmas Umban Sari 
 
+Kelompok 6 <br>
+Muhammad As Shaff (2257301088)
+Yoga Hermanda (2257301135)
+Indah Novitriani (2257301139)
+
 </div>
 
 
