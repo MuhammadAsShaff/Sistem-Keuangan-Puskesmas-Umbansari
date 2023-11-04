@@ -327,7 +327,7 @@ Logika Struktur terdapat pada bagian 3.3.1
 |    Xref    |  Bagian 2.2.4 Admin Mengelola User      |
 |    Trigger    |   Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari |
 |Precondition|Halman Dashboard Admin|
-|Basic Path|1. Sistem menampilkan halaman dashboard Admin<br>2. Admin memilih menu penambahan user <br>3. Admin menginputkan data untuk menambahkan user<br>4. Admin mengklik tombol tambah user<br>5. Sistem akan menyimpan data yang di inputkan<br>-Admin dapat melihat,menghapus,dan mengedit bila melakukan:<br>1. Admin mengklik menu daftar user <br>2. Sistem akan menampilkan data user yang terdaftar<br>3. Admin mengklik salah satu tombol edit/hapus <br>4. Sistem akan memvalidasi perintah edit/hapus<br>5. Sistem akan menampilkan data yang telah disesuaikan|
+|Basic Path|1. Sistem menampilkan halaman dashboard Admin<br>2. Admin mengklik menu penambahan user <br>3. Admin menginputkan data untuk menambahkan user<br>4. Admin mengklik tombol tambah user<br>5. Sistem akan menyimpan data yang di inputkan<br><br>-Admin dapat melihat,menghapus,dan mengedit bila melakukan:<br><br>1. Admin mengklik menu daftar user <br>2. Sistem akan menampilkan data user yang terdaftar<br>3. Admin mengklik salah satu tombol edit/hapus <br>4. Sistem akan memvalidasi perintah edit/hapus<br>5. Sistem akan menampilkan data yang telah disesuaikan|
 |Alternative|Tidak ada|
 |Pos Condition|- Halaman penambahan User (Untuk penambahan data user)<br>- Halaman daftar user |
 |Exception Push|Tidak ada koneksi, data belum di inputkan|
@@ -337,10 +337,10 @@ Logika Struktur terdapat pada bagian 3.3.1
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|    Xref    |        |
-|    Trigger    |        |
-|Precondition||
-|Basic Path||
+|Xref|Bagian Staff Keuangan Mengelola data Keuangan|
+|Trigger|Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari|
+|Precondition|Halaman dashboard Staff Keuangan|
+|Basic Path|1. Sistem Menampilkan halaman dashboard staff keuangan<br>2. Staff Keuangan mengklik menu data pemasukan<br>3. Staff menginputkan data pemasukan<br>4. Sistem akan menyimpan inputkan data<br> 5.Sistem menampilkan data yang telah disesuaikan dalam bentuk tabel<br><br>Untuk menambahkan data pengeluaran:<br><br>1. Staff keuangan mengklik menu data pengeluaran<br>2. staff keuangan menginputkan data pengeluaran<br>4. Sistem akan menyimpan inputkan data<br> 5.Sistem menampilkan data yang telah disesuaikan dalam bentuk tabel|
 |Alternative||
 |Pos Condition||
 |Exception Push||
