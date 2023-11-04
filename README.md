@@ -1,6 +1,7 @@
 <div align="center">
 
-# Software Requirements Spesification
+# PROPOSAL WORKSHOP PEMROGRAMAN FRAMEWORK SISTEM PENDATAAN PASIEN
+
 
 ##### 6 November 2023
 
@@ -13,11 +14,18 @@ Kelompok 6 <br>
 Muhammad As Shaff (2257301088)<br>
 Yoga Hermanda (2257301135)<br>
 Indah Novitriani (2257301139)<br>
+KELAS
 2 SIA
+
+<br><br>
+DOSEN PENGAMPU : <br>
+Muhammad Mahrus Zain,S.S.T., M.T.I.<br>
+AIL : <br>
+Nur  Mufidah, S.Tr.Kom 
 
 <br><br><br>
 
-### Jurusan  Sistem Informasi
+### PROGRAM STUDI SISTEM INFORMASI <br> POLITEKNIK CALTEX RIAU TA 2023 / 2024
 
 </div>
 
