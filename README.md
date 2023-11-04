@@ -222,7 +222,26 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff biasa<br>
 
 ##### 2.2.7 Staff Keuangan Mencetak Laporan Keuangan
 
+Use Case: Staff Keuangan Mencetak Laporan Keuangan <br>
+Diagram:![alt text](image/staffKeuanganMencetakLaporanKeuangan.jpg?raw=true)
+<br>
+Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana akan menampilkan sidebar <br>
+
+1. Staff Keuangan mengklik menu laporan
+2. Sistem akan menampilkan data pemasukan dan pengeluaran dalam bentuk grafik
+3. Staff Keuangan mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pemasukan
+4. Staff Keuangan mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pemasukan
+5. Staff Keuangan mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pengeluaran
+6. Staff Keuangan mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pengeluaran
+
 ##### 2.2.8 Staff Biasa Mencetak Laporan Keuangan
+
+Use Case: Staff Biasa Mencetak Laporan Keuangan <br>
+Diagram:![alt text](image/staffBiasaMencetakLaporanKeuangan.jpg?raw=true)
+<br>
+Deskripsi Singkat Sistem akan menampilkan dashboard Staff biasa<br>
+
+1. 
 
 ## 2.3 Spesifikasi Kebutuhan non-fungsional
 - Tabel Kebutuhan Non-Fungsional
