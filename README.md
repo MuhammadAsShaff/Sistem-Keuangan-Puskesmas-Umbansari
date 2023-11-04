@@ -56,7 +56,9 @@ Berikut ini fungsi staff keuangan:
 - Mencetak laporan pengeluaran
 
 Berikut ini fungsi staff biasa:
--
+- View grafik pengeluaran
+- View grafik pemasukan
+- Mencetak laporan
 
 ## 2.1 Perspektif produk
 Manajemen Keuangan Puskesmas Umban Sari adalah sebuah Sistem Manajemen Keuangan Puskesmas yang di aplikasiskan pada website. Terdapat 3 jenis yaitu admin,staff Keuangan dan staff biasa. Pengolahan data user di kelola oleh admin, pengolahan keuangan dikelola oleh staff keuangan,staff dan kepala Puskesmas hanya melihat grafik dan laporan pada website.
