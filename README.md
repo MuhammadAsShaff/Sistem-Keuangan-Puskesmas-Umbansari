@@ -43,7 +43,7 @@ Sistem Manajemen Keuangan Puskesmas Umban Sari merupakan sistem yang kami bangun
 
 ## 1.4 Referensi
 Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:
-- blabla
+- Hasil wawancara dari kepala Puskesmas Umban Sari
 
 
 ## 1.5 Overview
