@@ -7,12 +7,15 @@
  <img width="600" src="image/Logo_Politeknik_Caltex_Riau.png" alt="PCR">
 
 #### Sistem Manajemen Keuangan Puskesmas Umban Sari 
+<br><br><br>
 
 Kelompok 6 <br>
 Muhammad As Shaff (2257301088)<br>
 Yoga Hermanda (2257301135)<br>
 Indah Novitriani (2257301139)<br>
 2 SIA
+
+<br><br><br>
 
 ### Jurusan  Sistem Informasi
 
