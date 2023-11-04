@@ -241,7 +241,13 @@ Diagram:![alt text](image/staffBiasaMencetakLaporanKeuangan.jpg?raw=true)
 <br>
 Deskripsi Singkat Sistem akan menampilkan dashboard Staff biasa<br>
 
-1. 
+1. Staff Biasa akan masuk ke halaman dashboard
+2. Sistem akan menampilkan grafik pemasukan dan pengeluaran
+3. Staff biasa melihat grafik pemasukan dan pengeluaran
+4. Staff Biasa mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pemasukan
+5. Staff Biasa mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pemasukan
+6. Staff Biasa mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pengeluaran
+7. Staff Biasa mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pengeluaran
 
 ## 2.3 Spesifikasi Kebutuhan non-fungsional
 - Tabel Kebutuhan Non-Fungsional
