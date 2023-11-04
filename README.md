@@ -340,10 +340,10 @@ Logika Struktur terdapat pada bagian 3.3.1
 |Xref|Bagian Staff Keuangan Mengelola data Keuangan|
 |Trigger|Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari|
 |Precondition|Halaman dashboard Staff Keuangan|
-|Basic Path|1. Sistem Menampilkan halaman dashboard staff keuangan<br>2. Staff Keuangan mengklik menu data pemasukan<br>3. Staff menginputkan data pemasukan<br>4. Sistem akan menyimpan inputkan data<br> 5.Sistem menampilkan data yang telah disesuaikan dalam bentuk tabel<br><br>Untuk menambahkan data pengeluaran:<br><br>1. Staff keuangan mengklik menu data pengeluaran<br>2. staff keuangan menginputkan data pengeluaran<br>4. Sistem akan menyimpan inputkan data<br> 5.Sistem menampilkan data yang telah disesuaikan dalam bentuk tabel|
-|Alternative||
-|Pos Condition||
-|Exception Push||
+|Basic Path|1. Sistem Menampilkan halaman dashboard staff keuangan<br>2. Staff Keuangan mengklik menu data pemasukan<br>3. Staff menginputkan data pemasukan<br>4. Sistem akan menyimpan inputkan data<br> 5.Sistem menampilkan data yang telah disesuaikan dalam bentuk tabel<br><br>Untuk menambahkan data pengeluaran:<br><br>1. Staff keuangan mengklik menu data pengeluaran<br>2. staff keuangan menginputkan data pengeluaran<br>4. Sistem akan menyimpan inputkan data<br> 5.Sistem menampilkan data yang telah disesuaikan dalam bentuk tabel<br><br>Untuk edit/hapus data dapat dilakukan dengan:<br><br>1. Sitem akan menampilkan data pemasukan/pengeluaran <br>2. Staff Keuangan mengklik tombol hapus/edit<br>3. Sistem akan menyimpan perubahan<br>4. Sistem akan menampilkan data yang telah di ubah|
+|Alternative|Tidak ada|
+|Pos Condition|-Halaman data pengeluaran - Halaman data pemasukan|
+|Exception Push|Tidak ada koneksi, data belum di inputkan|
 
 
 ##### 3.2.6 Staff Biasa Melihat Data Keuangan
