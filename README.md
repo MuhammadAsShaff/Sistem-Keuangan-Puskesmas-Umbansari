@@ -92,6 +92,7 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 ##### 2.1.2 Antarmuka pengguna
 
 - **Mockup Admin ( Website )**
+
 |  |  |
 | ------ | ------ |
 |        |        |
