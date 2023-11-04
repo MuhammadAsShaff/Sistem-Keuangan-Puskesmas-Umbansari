@@ -31,7 +31,8 @@ Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjela
 
 # BAB II Gambaran umum
 Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari .dalam studi kasus Proyek II ini kami menganalisis kebutuhan Puskesmas dalam memanage keuangan Puskesmas tersebut.Kasus yang kami peroleh yaitu Sistem Manajemen Keuangan Puskesmas. Maka dari itu kami sebagai software engineering merancang sebuah sistem sesuai dengan kebutuhan Kepala Puskesmas dengan menerapkan Sistem Manajemen Keuangan Puskesmas Umban Sari. Sehingga memudahkan Petugas Puskesmas dalam mengelola keuangan.Software yang kami buat ini berbasis website dimana website sebagai admin, staff keuangan dan staff biasa. Sistem yang kami buat di dalamnya terdapat
-Data pemasukan,data pengeluaran,laporan keuangan,grafik data pemasukan dan pengeluaran (Untuk staff keuangan), grafik data pemasukan, grafik data pengeluaran dan laporan (Untuk Staff biasa),pengelolaan data user (Untuk admin).Berikut akan kami jelaskan sistem software kami,Admin fungsi utama yaitu :
+Data pemasukan,data pengeluaran,laporan keuangan,grafik data pemasukan dan pengeluaran (Untuk staff keuangan), grafik data pemasukan, grafik data pengeluaran dan laporan (Untuk Staff biasa),pengelolaan data user (Untuk admin).<br>
+Berikut akan kami jelaskan sistem software kami,Admin fungsi utama yaitu :
 - Input Nama User (Staff Puskesmas)
 - Input Tempat Lahir
 - Input Tanggal Lahir
