@@ -152,7 +152,7 @@ Deskripsi Singkat Admin melakukan login terlebih dahulu sebelum masuk ke tampila
 3. Bila sukses sistem akan mengarahkan ke halaman beranda
 4. Bila gagal sistem akan menampilkan peringatan untuk login ulang
 
-Xref: Bagian 3.2.1, Login Kepala Desa
+Xref: Bagian 3.2.1 Login Admin
 
 ##### 2.2.2 Staff Keuangan Login
 
@@ -166,6 +166,8 @@ Deskripsi Singkat Staff Keuangan melakukan login terlebih dahulu sebelum masuk k
 3. Bila sukses sistem akan mengarahkan ke halaman beranda
 4. Bila gagal sistem akan menampilkan peringatan untuk login ulang
 
+Xref: Bagian 3.2.2 Login Staff Keuangan
+
 ##### 2.2.3 Staff Biasa Login
 
 Use Case: Login <br>
@@ -178,6 +180,8 @@ Deskripsi Singkat Staff Biasa melakukan login terlebih dahulu sebelum masuk ke t
 3. Bila sukses sistem akan mengarahkan ke halaman beranda
 4. Bila gagal sistem akan menampilkan peringatan untuk login ulang
 
+Xref: Bagian 3.2.3 Login Staff Biasa
+
 ##### 2.2.4 Admin Mengelola User
 Use Case: Admin Mengelola User <br>
 Diagram:![alt text](image/adminMengelolaUser.jpg?raw=true)
@@ -188,7 +192,9 @@ Deskripsi Singkat Sistem akan menampilkan dashboard admin yang di mana akan mena
 2. Sistem akan menyimpan data user yang telah di inputkan, serta akan menampilkan data user yang telah di inputkan
 3. Admin bisa menghapus dan menupdate data user
 
-##### 2.2.5 Staff Keuangan Mengelola data Keuangan
+Xref: Bagian 3.2.4 Admin Mengelola User
+
+##### 2.2.5 Staff Keuangan Mengelola Data Keuangan
 
 Use Case: Admin Mengelola User <br>
 Diagram:![alt text](image/staffKeuanganMengelolaDataKeuangan.jpg?raw=true)
@@ -206,6 +212,8 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana 
 2. Sistem akan menyimpan data user yang telah di inputkan, serta akan menampilkan data pemasukan yang telah diinputkan 
 3. Staff bisa menghapus data pengeluaran 
 4. Staff juga bisa megedit data pengeluaran
+
+Xref: Bagian 3.2.5 Staff Keuangan Mengelola Data Keuangan
 
 ##### 2.2.6 Staff Biasa Melihat Data Keuangan
 
@@ -227,6 +235,7 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff biasa<br>
 1. Staff biasa mengklik data pemasukan pada sidebar
 2. Sistem akan menampilkan pemasukan dalam bentuk tabel
 
+Xref: Bagian 3.2.6 Staff Biasa Melihat Data keuangan
 
 ##### 2.2.7 Staff Keuangan Mencetak Laporan Keuangan
 
@@ -242,6 +251,8 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana 
 5. Staff Keuangan mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pengeluaran
 6. Staff Keuangan mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pengeluaran
 
+Xref: Bagian 3.2.7 Staff Keuangan Mencetak Laporan Keuangan
+
 ##### 2.2.8 Staff Biasa Mencetak Laporan Keuangan
 
 Use Case: Staff Biasa Mencetak Laporan Keuangan <br>
@@ -256,6 +267,8 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff biasa<br>
 5. Staff Biasa mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pemasukan
 6. Staff Biasa mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pengeluaran
 7. Staff Biasa mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pengeluaran
+
+Xref: Bagian 3.2.7 Staff Biasa Mencetak Laporan Keuangan
 
 ## 2.3 Spesifikasi Kebutuhan non-fungsional
 - Tabel Kebutuhan Non-Fungsional
