@@ -10,7 +10,7 @@
 #### Sistem Manajemen Keuangan Puskesmas Umban Sari 
 <br><br><br>
 
-Kelompok 6 <br>
+##Kelompok 6 <br>
 Muhammad As Shaff (2257301088)<br>
 Yoga Hermanda (2257301135)<br>
 Indah Novitriani (2257301139)<br>
@@ -18,9 +18,9 @@ KELAS
 2 SIA
 
 <br><br>
-DOSEN PENGAMPU : <br>
+##DOSEN PENGAMPU : <br>
 Muhammad Mahrus Zain,S.S.T., M.T.I.<br>
-AIL : <br>
+##AIL : <br>
 Nur  Mufidah, S.Tr.Kom 
 
 <br><br><br>
