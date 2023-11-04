@@ -324,13 +324,13 @@ Logika Struktur terdapat pada bagian 3.3.1
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|    Xref    |        |
-|    Trigger    |        |
-|Precondition||
-|Basic Path||
-|Alternative||
-|Pos Condition||
-|Exception Push||
+|    Xref    |  Bagian 2.2.4 Admin Mengelola User      |
+|    Trigger    |   Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari |
+|Precondition|Halman Dashboard Admin|
+|Basic Path|1. Sistem menampilkan halaman dashboard Admin<br>2. Admin memilih menu penambahan user <br>3. Admin menginputkan data untuk menambahkan user<br>4. Admin mengklik tombol tambah user<br>5. Sistem akan menyimpan data yang di inputkan<br>-Admin dapat melihat,menghapus,dan mengedit bila melakukan:<br>1. Admin mengklik menu daftar user <br>2. Sistem akan menampilkan data user yang terdaftar<br>3. Admin mengklik salah satu tombol edit/hapus <br>4. Sistem akan memvalidasi perintah edit/hapus<br>5. Sistem akan menampilkan data yang telah disesuaikan|
+|Alternative|Tidak ada|
+|Pos Condition|- Halaman penambahan User (Untuk penambahan data user)<br>- Halaman daftar user |
+|Exception Push|Tidak ada koneksi, data belum di inputkan|
 
 
 ##### 3.2.5 Staff Keuangan Mengelola data Keuangan
