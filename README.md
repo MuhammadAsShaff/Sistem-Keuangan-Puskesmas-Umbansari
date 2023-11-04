@@ -158,17 +158,6 @@ Deskripsi Singkat Staff Keuangan melakukan login terlebih dahulu sebelum masuk k
 3. Bila sukses sistem akan mengarahkan ke halaman beranda
 4. Bila gagal sistem akan menampilkan peringatan untuk login ulang
 
-<!-- Use Case: Mengelola user <br>
-Diagram:
-<br>
-Deskripsi Singkat Admin mengelola data user setelah melakukan login pada sistem
-
-1.Admin melakukan inputkan data pribadi dari masing masing pengguna
-2.Admin mengklik tombol simpan
-3.Sistem menyimpan data user
-4.Bila data sudah ada sistem akan menampilkan peringatan
-5.Dan bila data belum ada maka akan menampilkan pemberitahuan berhasil -->
-
 ##### 2.2.3 Staff Biasa Login
 
 Use Case: Login <br>
@@ -176,26 +165,20 @@ Diagram:![alt text](image/staffBiasaLogin.jpg?raw=true)
 <br>
 Deskripsi Singkat Staff Biasa melakukan login terlebih dahulu sebelum masuk ke tampilan home
 
-1.  Biasa melakukan login dengan username dan password
+1. Biasa melakukan login dengan username dan password
 2. Sistem melakukan validasi login
 3. Bila sukses sistem akan mengarahkan ke halaman beranda
 4. Bila gagal sistem akan menampilkan peringatan untuk login ulang
 
 ##### 2.2.4 Admin Mengelola User
-
-
-
-
-<!-- Use Case: Mengelola Data Keuangan <br>
-Diagram:
+Use Case: Admin Mengelola User <br>
+Diagram:![alt text](image/adminMengelolaUser.jpg?raw=true)
 <br>
-Deskripsi Singkat Staff Keuangan mengelola data keuangan setelah melakukan login pada sistem
+Deskripsi Singkat Sistem akan menampilkan dashboard admin yang di mana akan menampilkan form user<br>
 
-1.Staff Keuangan melakukan inputkan data pribadi dari masing masing pengguna
-2.Admin mengklik tombol simpan
-3.Sistem menyimpan data user
-4.Bila data sudah ada sistem akan menampilkan peringatan
-5.Dan bila data belum ada maka akan menampilkan pemberitahuan berhasil -->
+1. Admin Mengklik menu kelola user,setelah keluar form user, admin menginputkan Nama user,Tempat lahir user,Tanggal lahir,E-mail, Jenis Kelamin,Agama,No telepon,Alamat, Jabatan Kemudian klik tambahahkan User
+2. Sistem akan menyimpan data user yang telah di inputkan, serta akan menampilkan data user yang telah di inputkan
+3. Admin bisa menghapus dan menupdate data user
 
 ##### 2.2.5 Staff Keuangan Mengelola data Keuangan
 
