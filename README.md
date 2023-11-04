@@ -204,7 +204,7 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana 
 Use Case: Staff Biasa Melihat data Keuangan <br>
 Diagram:![alt text](image/staffKeuanganMengelolaDataKeuangan.jpg?raw=true)
 <br>
-Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana akan menampilkan sidebar<br>
+Deskripsi Singkat Sistem akan menampilkan dashboard Staff biasa yang di mana akan menampilkan sidebar<br>
 
 ##### 2.2.7 Staff Keuangan Mencetak Laporan Keuangan
 
