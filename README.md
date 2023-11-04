@@ -337,7 +337,7 @@ Logika Struktur terdapat pada bagian 3.3.1
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|Xref|Bagian Staff Keuangan Mengelola data Keuangan|
+|Xref|Bagian 2.2.5 Staff Keuangan Mengelola data Keuangan|
 |Trigger|Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari|
 |Precondition|Halaman dashboard Staff Keuangan|
 |Basic Path|1. Sistem Menampilkan halaman dashboard staff keuangan<br>2. Staff Keuangan mengklik menu data pemasukan<br>3. Staff menginputkan data pemasukan<br>4. Sistem akan menyimpan inputkan data<br> 5.Sistem menampilkan data yang telah disesuaikan dalam bentuk tabel<br><br>Untuk menambahkan data pengeluaran:<br><br>1. Staff keuangan mengklik menu data pengeluaran<br>2. staff keuangan menginputkan data pengeluaran<br>4. Sistem akan menyimpan inputkan data<br> 5.Sistem menampilkan data yang telah disesuaikan dalam bentuk tabel<br><br>Untuk edit/hapus data dapat dilakukan dengan:<br><br>1. Sitem akan menampilkan data pemasukan/pengeluaran <br>2. Staff Keuangan mengklik tombol hapus/edit<br>3. Sistem akan menyimpan perubahan<br>4. Sistem akan menampilkan data yang telah di ubah|
@@ -350,38 +350,38 @@ Logika Struktur terdapat pada bagian 3.3.1
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|    Xref    |        |
-|    Trigger    |        |
-|Precondition||
-|Basic Path||
-|Alternative||
-|Pos Condition||
-|Exception Push||
+|    Xref    | Bagian 2.2.6 Staff Biasa Melihat Data Keuangan       |
+|    Trigger    |     Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari   |
+|Precondition|Halaman dashboard Staff biasa|
+|Basic Path|1. Sistem menampilkan halaman dashboard staff biasa<br>2. Staff biasa dapat melihat data dalam bentuk tabel pemasukan dan pengeluaran |
+|Alternative|Tidak ada|
+|Pos Condition|Halaman dashboard Staff biasa|
+|Exception Push|Tidak ada koneksi|
 
 
 ##### 3.2.7 Staff Keuangan Mencetak Laporan Keuangan
 
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|    Xref    |        |
-|    Trigger    |        |
-|Precondition||
-|Basic Path||
-|Alternative||
-|Pos Condition||
-|Exception Push||
+|    Xref    |    Bagian 2.2.7 Staff Keuangan Mencetak Laporan Keuangan    |
+|    Trigger    |    Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari    |
+|Precondition|Halaman dashboard Staff Keuangan|
+|Basic Path|1. Sistem akan menampilkan halaman dashboard staff keuangan dan sidebarnya<br> Staff Keuangan mengklik tombol laporan<br>3. Sistem akan menampilkan data laporan pemasukandan pengeluaran dalam bentuk grafik <br>4. Staff Keuangan mengklik tombol save to exel/ save to pdf <br>4. Staff keuangan mencetak berdasarkan format yang dia pilih sebelum |
+|Alternative|Tidak ada|
+|Pos Condition|Halaman Laporan staff keuangan|
+|Exception Push|Tidak ada koneksi|
 
 
 ##### 3.2.8 Staff Biasa Mencetak Laporan Keuangan
 | Nama Fungsi |Laporan |
 | ------ | ------ |
-|    Xref    |        |
-|    Trigger    |        |
-|Precondition||
-|Basic Path||
-|Alternative||
-|Pos Condition||
-|Exception Push||
+|    Xref    |    Bagian 2.2.8 Staff Biasa Mencetak Laporan Keuangan    |
+|    Trigger    |     Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari   |
+|Precondition|Halaman dashboard Staff Biasa|
+|Basic Path|1. Sistem akan menampilkan halaman dashboard staff biasa dan sidebarnya<br> Staff biasa mengklik tombol laporan<br>3. Sistem akan menampilkan data laporan pemasukandan pengeluaran dalam bentuk grafik <br>4. Staff biasa mengklik tombol save to exel/ save to pdf <br>4. Staff biasa mencetak berdasarkan format yang dia pilih sebelum|
+|Alternative|Tidak ada|
+|Pos Condition|Halaman Laporan staff biasa|
+|Exception Push|Tidak ada koneksi|
 
 ## 3.3 Struktur Detail Kebutuhan Non-fungsional
 
