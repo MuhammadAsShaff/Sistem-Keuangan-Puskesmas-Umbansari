@@ -134,7 +134,7 @@ Tidak ada
 ![alt text](image/UseCaseDiagram.jpg?raw=true)
 ##### 2.2.1 Admin Login
 Use Case: Login <br>
-Diagram:
+Diagram:![alt text](image/adminLogin.jpg?raw=true)
 <br>
 Deskripsi Singkat Admin melakukan login terlebih dahulu sebelum masuk ke tampilan home
 
@@ -148,7 +148,7 @@ Xref: Bagian 3.2.1, Login Kepala Desa
 ##### 2.2.2 Staff Keuangan Login
 
 Use Case: Login <br>
-Diagram:
+Diagram:![alt text](image/staffKeuanganLogin.jpg?raw=true)
 <br>
 Deskripsi Singkat Staff Keuangan melakukan login terlebih dahulu sebelum masuk ke tampilan home
 
@@ -171,7 +171,7 @@ Deskripsi Singkat Admin mengelola data user setelah melakukan login pada sistem
 ##### 2.2.3 Staff Biasa Login
 
 Use Case: Login <br>
-Diagram:
+Diagram:![alt text](image/staffBiasaLogin.jpg?raw=true)
 <br>
 Deskripsi Singkat Staff Biasa melakukan login terlebih dahulu sebelum masuk ke tampilan home
 
