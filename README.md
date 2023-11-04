@@ -1,10 +1,10 @@
-**<div align="center">
+<div align="center">
 
 # Sistem Manajemen Keuangan Puskesmas Umban Sari 
 
  <img width="600" src="image/Logo_Politeknik_Caltex_Riau.png" alt="PCR">
 
-</div>**
+</div>
 
 
 # BAB I Pendahuluan
