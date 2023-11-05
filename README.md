@@ -106,7 +106,12 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 | ![alt text](Interface/HalamanBerandaMasuk.jpeg?raw=true)  <br> Pada halaman awal ini akan menampilkan contact dan beberapa informasi lainnya  |  ![alt text](Interface/HalamanLogin.jpeg?raw=true)    <br>Pada halaman ini user di harus memasukkan E-Mail dan password yang telah di daftarkan  |
 |    ![alt text](Interface/DashboardStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini terdapat bagian bagian yang menjelaskan jumlah pengeluaran pemasukan dan jumlah simpanan dana dari Puskesmas dan juga menampilkan grafik pemasukan dan pengeluaran   |  ![alt text](Interface/menuPemasukanStaffKeuangan.jpeg?raw=true)  <br>Pada halaman ini akan menampilkan tabel pemasukan dan juga terdapat tombol tambah data untuk menambahkan data pemasukan    |
 | ![alt text](Interface/menuPengeluaranStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini terdapat tabel pengeluaran dan juga terdapat tambah data untuk menambahkan data pengeluaran|![alt text](Interface/tambahDataPemasukanStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini terdapat beberapa kolom untuk menginputkan data Pemasukan dan terdapat tombol tambah data yang berguna untuk menyimpan masukkan data|
-|![alt text](Interface/tambahDataPengeluaranStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini ada halaman ini terdapat beberapa kolom untuk menginputkan data pengeluaran dan terdapat tombol tambah data yang berguna untuk menyimpan masukkan data |![alt text](Interface/LaporanKeuanganPengeluaran.jpeg?raw=true) <br>Pada halam ini terdapat sebuah grafik pengeluaran dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|acuan|
+|![alt text](Interface/tambahDataPengeluaranStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini ada halaman ini terdapat beberapa kolom untuk menginputkan data pengeluaran dan terdapat tombol tambah data yang berguna untuk menyimpan masukkan data |![alt text](Interface/LaporanKeuanganPengeluaran.jpeg?raw=true) <br>Pada halaman ini terdapat sebuah grafik pengeluaran dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|
+|![alt text](Interface/laporanStaffKeuanganPemasukan.jpeg?raw=true)<br>Pada halaman ini terdapat sebuah grafik pemasukan dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|![alt text](Interface/daftarUserAdmin.jpeg?raw=true)<br>Pada halaman ini terdapat tabel yang menampilkan daftar user yang aktif pada sistem Manajemen Keuangan Puskesmas Umban Sari|
+|test|test|
+|test|test|
+|test|test|
+|test|test|
 
 ##### 2.1.3 Antarmuka perangkat keras
 ![alt text](image/Antarmuka_Perangkat_Keras.png?raw=true)
