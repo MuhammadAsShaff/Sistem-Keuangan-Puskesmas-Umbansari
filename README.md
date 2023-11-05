@@ -103,7 +103,7 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 
 |  |  |
 | ------ | ------ |
-|        |        |
+|    ![alt text](Interface/HalamanBerandaMasuk.jpeg?raw=true)    |  ![alt text](Interface/HalamanLogin.jpeg?raw=true)      |
 |        |        |
 
 ##### 2.1.3 Antarmuka perangkat keras
