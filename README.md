@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
 
 # <br> <br>PROPOSAL WORKSHOP <br> PEMROGRAMAN FRAMEWORK <br><br><br>
 
 
-<!-- ##### 6 November 2023 -->
+
 
  <img width="600" src="image/Logo_Politeknik_Caltex_Riau.png" alt="PCR">
 
@@ -28,7 +28,8 @@ Nur  Mufidah, S.Tr.Kom
 
 ### PROGRAM STUDI SISTEM INFORMASI <br> POLITEKNIK CALTEX RIAU <br> TA 2023 / 2024
 
-</div>
+</div> -->
+![alt text](image/Cover_Proposal_Framework.jpg?raw=true)
 
 # BAB I Pendahuluan
 
