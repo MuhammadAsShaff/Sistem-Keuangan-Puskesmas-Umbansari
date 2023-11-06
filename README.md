@@ -420,3 +420,28 @@ Logika Struktur terdapat pada bagian 3.3.1
 
 ##### 3.3.1 Logika Struktur Data<br>
 Struktur data logika pada sistem Aplikasi Manajemen Keuangan Puskesmas Umban Sari terdapat struktur Database yang dijelaskan menggunakan ERD.
+
+
+Tabel user
+| Data Item |Type |Deskripsi|
+| ------ | ------ |---------|
+|        |        ||
+|        |        ||
+
+Tabel Data Pemasukan
+| Data Item |Type |Deskripsi|
+| ------ | ------ |---------|
+|        |        ||
+|        |        ||
+
+Tabel Data Pengeluaran
+| Data Item |Type |Deskripsi|
+| ------ | ------ |---------|
+|        |        ||
+|        |        ||
+
+Tabel Laporan
+| Data Item |Type |Deskripsi|
+| ------ | ------ |---------|
+|        |        ||
+|        |        ||
