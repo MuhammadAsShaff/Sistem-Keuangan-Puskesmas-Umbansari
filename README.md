@@ -463,6 +463,8 @@ Tabel Laporan
 |keterangan|Varchar|Menjelaskan tujuan dan keterangan dari laporan keuangan|
 |jumlahPengeluaran|int|jumlah kumulatif dari pengeluaran|
 |jumlahPemasukan|int|jumlah kumulatif dari pemasukan|
+
 <br><br>
+
 ![alt text](HasilWawancara/Hasil_Wawancara.jpg?raw=true)
 ![alt text](HasilWawancara/Hasil_Wawancara_2.jpg?raw=true)
