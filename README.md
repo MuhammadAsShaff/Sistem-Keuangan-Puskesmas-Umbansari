@@ -419,7 +419,8 @@ Logika Struktur terdapat pada bagian 3.3.1
 ## 3.3 Struktur Detail Kebutuhan Non-fungsional
 
 ##### 3.3.1 Logika Struktur Data<br>
-Struktur data logika pada sistem Aplikasi Manajemen Keuangan Puskesmas Umban Sari terdapat struktur Database yang dijelaskan menggunakan ERD.
+Struktur data logika pada sistem Aplikasi Manajemen Keuangan Puskesmas Umban Sari terdapat struktur Database yang dijelaskan menggunakan ERD
+![alt text](image/Sistem_Manajemen_Puskesmas_Umban_Sari.jpg?raw=true)
 
 
 Tabel user
