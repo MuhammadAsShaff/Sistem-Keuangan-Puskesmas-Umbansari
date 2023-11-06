@@ -469,3 +469,7 @@ Tabel Laporan
 
 ![alt text](HasilWawancara/Hasil_Wawancara.jpg?raw=true)
 ![alt text](HasilWawancara/Hasil_Wawancara_2.jpg?raw=true)
+
+|  | |
+| ------ | ------ |
+|![alt text](image/foto1.jpg?raw=true)|   ![alt text](image/foto2.jpg?raw=true)     |
