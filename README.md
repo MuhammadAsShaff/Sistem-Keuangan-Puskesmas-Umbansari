@@ -420,29 +420,46 @@ Logika Struktur terdapat pada bagian 3.3.1
 
 ##### 3.3.1 Logika Struktur Data<br>
 Struktur data logika pada sistem Aplikasi Manajemen Keuangan Puskesmas Umban Sari terdapat struktur Database yang dijelaskan menggunakan ERD
-![alt text](image/Sistem_Manajemen_Puskesmas_Umban_Sari.jpg?raw=true)
+![alt text](ERD/Sistem_Manajemen_Puskesmas_Umban_Sari.jpg?raw=true)
 
 
 Tabel user
 | Data Item |Type |Deskripsi|
 | ------ | ------ |---------|
-|        |        ||
-|        |        ||
+|    NIK    |  int      |Berisikan NIK yang sesuai dengan KTP|
+|    Nama    |      Varchar  |Nama dari user|
+|jenis_kelamin|Varchar|Jenis kelamin dari user|
+|Alamat|Varchar|Tempat tinggaluser|
+|email|Varchar|alamat email yang di daftarkan|
+|password|Varchar|berisikan password untuk login admin dan user|
+|pangkat|Varchar|kondisi jabatan user|
+|jabatan|Varchar|posisi peran seorang user|
+|username|Varchar|nama yang digunakansebagai username|
+
 
 Tabel Data Pemasukan
 | Data Item |Type |Deskripsi|
 | ------ | ------ |---------|
-|        |        ||
-|        |        ||
+|    idPemasukan    |   int     |merupakan id dari pemasukan|
+|      tanggalMasuk  |    date    |Tanggal masuk uang berdasarkan inputan user|
+|keterangan|Varchar|Menjelaskan tujuan dan keterangan dari pemasukan|
+|sumeberPemasukan|Varchar|sumber dana dari mana pemasukan berasal|
+|JumlahNominal|int|jumlah kumulatif dari pemasukan|
 
 Tabel Data Pengeluaran
 | Data Item |Type |Deskripsi|
 | ------ | ------ |---------|
-|        |        ||
-|        |        ||
+|    idPengeluaran    |   int     |merupakan id dari pengeluaran|
+|      tanggalKeluar  |    date    |Tanggal keluar uang berdasarkan inputan user|
+|keterangan|Varchar|Menjelaskan tujuan dan keterangan dari pengeluaran|
+|sumeberPengeluaran|Varchar|sumber dari mana pengeluaran berasal|
+|JumlahNominal|int|jumlah kumulatif dari pengeluaran|
 
 Tabel Laporan
 | Data Item |Type |Deskripsi|
 | ------ | ------ |---------|
-|        |        ||
-|        |        ||
+|   idLaporan     |      int  |Menjelaskan id keberapa dari laporan ini|
+|    sumber    |        |sumber dana dari mana pemasukan berasal|
+|keterangan|Varchar|Menjelaskan tujuan dan keterangan dari laporan keuangan|
+|jumlahPengeluaran|int|jumlah kumulatif dari pengeluaran|
+|jumlahPemasukan|int|jumlah kumulatif dari pemasukan|
