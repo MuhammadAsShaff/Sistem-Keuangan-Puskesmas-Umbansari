@@ -29,7 +29,7 @@ Nur  Mufidah, S.Tr.Kom
 ### PROGRAM STUDI SISTEM INFORMASI <br> POLITEKNIK CALTEX RIAU <br> TA 2023 / 2024
 
 </div> -->
-![alt text](image/Cover_Proposal_Framework.jpg?raw=true)
+![alt text](image/CoverProposalFramework.jpg?raw=true)
 
 # BAB I Pendahuluan
 
