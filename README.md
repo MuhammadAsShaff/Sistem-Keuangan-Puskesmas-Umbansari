@@ -459,7 +459,7 @@ Tabel Laporan
 | Data Item |Type |Deskripsi|
 | ------ | ------ |---------|
 |   idLaporan     |      int  |Menjelaskan id keberapa dari laporan ini|
-|    sumber    |        |sumber dana dari mana pemasukan berasal|
+|    sumber    |     Varchar   |sumber dana dari mana pemasukan berasal|
 |keterangan|Varchar|Menjelaskan tujuan dan keterangan dari laporan keuangan|
 |jumlahPengeluaran|int|jumlah kumulatif dari pengeluaran|
 |jumlahPemasukan|int|jumlah kumulatif dari pemasukan|
