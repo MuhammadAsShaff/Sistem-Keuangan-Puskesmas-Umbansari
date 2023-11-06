@@ -467,12 +467,12 @@ Tabel Laporan
 
 <br><br>
 
-#Lampiran Bukti wawancara
+# Lampiran Bukti wawancara
 
 ![alt text](HasilWawancara/Hasil_Wawancara.jpg?raw=true)
 ![alt text](HasilWawancara/Hasil_Wawancara_2.jpg?raw=true)
 
-#Foto Saat Wawancara
+# Foto Saat Wawancara
 
 |  | |
 | ------ | ------ |
