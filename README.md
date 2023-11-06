@@ -477,3 +477,13 @@ Tabel Laporan
 |  | |
 | ------ | ------ |
 |![alt text](image/foto1.jpg?raw=true)|   ![alt text](image/foto2.jpg?raw=true)     |
+
+<br><br>
+
+# Jobdesk
+
+| Nama | Jobdesk |
+| ------ | ------ |
+|      Muhammad As Shaff  |  Bab 1 - Bab 3      |
+|       Yoga Hermanda |  Interface (Figma)      |
+| Indah Novitriani|Usecase|
