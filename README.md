@@ -484,6 +484,6 @@ Tabel Laporan
 
 | Nama | Jobdesk |
 | ------ | ------ |
-|      Muhammad As Shaff  |  Bab 1 - Bab 3      |
-|       Yoga Hermanda |  Interface (Figma)      |
-| Indah Novitriani|Usecase|
+|      Muhammad As Shaff  |  BAB I Pendahuluan <br> BAB II Gambaran umum <br>  BAB III Requirement specification <br> ERD|
+|       Yoga Hermanda |  Antarmuka pengguna    |
+| Indah Novitriani|Usecase Diagram|
