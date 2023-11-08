@@ -486,4 +486,4 @@ Tabel Laporan
 | ------ | ------ |
 |      Muhammad As Shaff  |  BAB I Pendahuluan <br> BAB II Gambaran umum <br>  BAB III Requirement specification <br> ERD|
 |       Yoga Hermanda |  Antarmuka pengguna    |
-| Indah Novitriani|Usecase Diagram|
+| Indah Novitriani|Usecase Diagram<br> Hasil Wawancara|
