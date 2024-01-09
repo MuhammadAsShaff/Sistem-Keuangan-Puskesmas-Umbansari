@@ -68,7 +68,7 @@
 @section('content')
 @component('components.breadcrumb')
 @slot('breadcrumb_title')
-<h3>Pemasukan</h3>
+<h3>Data User</h3>
 @endslot
 <li class="breadcrumb-item active">Data User</li>
 @endcomponent
@@ -80,7 +80,7 @@
         <div class="card-body">
           <!-- Tombol Tambah Laporan -->
           <button type="button" class="btn btn-md btn-primary" data-toggle="modal" data-target="#tambahModal">
-            Data Pemasukan
+            Tambah Data User
           </button><br><br>
 
           <!-- Modal Tambah Laporan -->
