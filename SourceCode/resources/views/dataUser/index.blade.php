@@ -68,7 +68,7 @@
 @section('content')
 @component('components.breadcrumb')
 @slot('breadcrumb_title')
-<h3>Data User</h3>
+<h3>Data User </h3>
 @endslot
 <li class="breadcrumb-item active">Data User</li>
 @endcomponent
