@@ -121,6 +121,12 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 |![alt text](InterfaceFigma/penambahanUserAdmin.jpeg?raw=true)<br>Pada halam ini terdapat inpitan untuk data diri dari seorang user yang ingin di daftarkan|![alt text](InterfaceFigma/penambahanUserAdmin__3_.jpeg?raw=true)<br>Pada halam ini terdapat inpitan untuk data diri dari seorang user yang ingin di daftarkan|
 |![alt text](InterfaceFigma/dashboarStaffBiasa.jpeg?raw=true)<br>Pada halaman ini terdapat sebuah grafik pengeluaran dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|![alt text](InterfaceFigma/konfirmasiHapus.jpeg?raw=true)<br>Pada modal ini terdapat konfirmasi terhadap data yang ingin di hapus|
 
+- **Mockup Bagian Login ( Website )**
+
+|  |  
+| ------ |
+|    ![alt text](InterfaceWebsite/login/1.png?raw=true)   |
+
 - **Mockup Bagian Landing Page ( Website )**
 
 |  |  
