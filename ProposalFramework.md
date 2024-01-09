@@ -502,9 +502,9 @@ Logika Struktur terdapat pada bagian 3.3.1
 |    Xref    | Bagian 2.2.7 Staff Biasa Melihat Data Keuangan       |
 |    Trigger    |     Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari   |
 |Precondition|Halaman dashboard Staff biasa|
-|Basic Path|1. Sistem menampilkan halaman dashboard staff biasa<br>2. Staff biasa dapat melihat data dalam bentuk tabel pemasukan dan pengeluaran |
+|Basic Path|Data Pemasukan:<br>1. Sistem menampilkan halaman dashboard staff biasa<br>2.Staff mngeklik Data Pemasukan untuk melihat data pemasukan dalam bentuk tabel<br><br>Data Pengeluaran:<br>1. Sistem menampilkan halaman dashboard staff biasa<br>2.Staff mngeklik Data Pengeluaran untuk melihat data pengeluaran dalam bentuk tabel |
 |Alternative|Tidak ada|
-|Pos Condition|Halaman dashboard Staff biasa|
+|Pos Condition|-Halaman Data Pemasukan - Halaman Data Pengeluaran|
 |Exception Push|Tidak ada koneksi|
 
 
