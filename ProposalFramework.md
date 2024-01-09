@@ -220,7 +220,7 @@ Xref: Bagian 3.2.4 Admin Mengelola User
 
 ##### 2.2.5 Staff Keuangan Mengelola Data Keuangan
 
-Use Case: Admin Mengelola User <br>
+Use Case: Staff Keuangan Mengelola Data Keuangan <br>
 Diagram:![alt text](image/staffKeuanganMengelolaDataKeuangan.jpg?raw=true)
 <br>
 Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana akan menampilkan sidebar<br>
@@ -239,7 +239,28 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana 
 
 Xref: Bagian 3.2.5 Staff Keuangan Mengelola Data Keuangan
 
-##### 2.2.6 Staff Biasa Melihat Data Keuangan
+##### 2.2.6 Admin Mengelola Data Keuangan
+
+Use Case: Admin Mengelola Data Keuangan <br>
+Diagram:![alt text](image/adminMengelolaDataKeuangan.jpg?raw=true)
+<br>
+Deskripsi Singkat Sistem akan menampilkan dashboard admin yang di mana akan menampilkan sidebar<br>
+
+- Untuk Data Pemasukan
+1. Admin Mengklik menu data pemasukan,Kemudian mengklik tambah data dan menginputkan tanggal pemasukan,keterangan pemasukan,sumber pemasukan,jumlah pemasukan kemudian klik tambah data 
+2. Sistem akan menyimpan data Keuangan yang telah di inputkan, serta akan menampilkan data pemasukan yang telah diinputkan 
+3. Admin bisa menghapus data pemasukan 
+4. Admin juga bisa megedit data pemasukan
+
+- Untuk Data pengeluaran
+1. Admin keuangan Mengklik menu data pengeluaran,Kemudian mengklik tambah data dan menginputkan tanggal pengeluaran,keterangan pengeluaran,sumber pengeluaran,jumlah pengeluaran kemudian klik tambah data 
+2. Sistem akan menyimpan data user yang telah di inputkan, serta akan menampilkan data pemasukan yang telah diinputkan 
+3. Admin bisa menghapus data pengeluaran 
+4. Admin juga bisa megedit data pengeluaran
+
+Xref: Bagian 3.2.6 Admin Mengelola Data Keuangan
+
+##### 2.2.7 Staff Biasa Melihat Data Keuangan
 
 Use Case: Staff Biasa Melihat data Keuangan <br>
 Diagram:![alt text](image/staffBiasaMelihatDataKeuangan.jpg?raw=true)
@@ -259,25 +280,27 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff biasa<br>
 1. Staff biasa mengklik data pemasukan pada sidebar
 2. Sistem akan menampilkan pemasukan dalam bentuk tabel
 
-Xref: Bagian 3.2.6 Staff Biasa Melihat Data keuangan
+Xref: Bagian 3.2.7 Staff Biasa Melihat Data keuangan
 
-##### 2.2.7 Staff Keuangan Mencetak Laporan Keuangan
+##### 2.2.9 Staff Keuangan Mencetak Laporan Keuangan
 
 Use Case: Staff Keuangan Mencetak Laporan Keuangan <br>
 Diagram:![alt text](image/staffKeuanganMencetakLaporanKeuangan.jpg?raw=true)
 <br>
 Deskripsi Singkat Sistem akan menampilkan dashboard Staff keuangan yang di mana akan menampilkan sidebar <br>
 
-1. Staff Keuangan mengklik menu laporan
-2. Sistem akan menampilkan data pemasukan dan pengeluaran dalam bentuk grafik
-3. Staff Keuangan mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pemasukan
-4. Staff Keuangan mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pemasukan
-5. Staff Keuangan mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pengeluaran
-6. Staff Keuangan mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pengeluaran
+1. Staff Keuangan akan masuk ke halaman dashboard
+2. Staff Keuangan akan menampilkan grafik pemasukan dan pengeluaran
+3. Staff Keuangan melihat grafik pemasukan dan pengeluaran
+4. Staff Keuangan memilih cetak Pelaporan pada sidebar
+5. Staff Keuangan Memilih Data Pemasukan Atau Pengeluaran
+6. Staff Keuangan menentukan Rentan waktu data yang ingin di tampilkan,kemudian klik Tampilkan
+6. Staff Keuangan mengklik save to exel untuk menyimpan dalam bentuk exel dan akan tersimpan tergantung dengan data yang di pilih sebelumnya
+7. Staff Keuangan mengklik save to pdf untuk menyimpan dalam bentuk pdf dan akan tersimpan tergantung dengan data yang di pilih sebelumnya
 
-Xref: Bagian 3.2.7 Staff Keuangan Mencetak Laporan Keuangan
+Xref: Bagian 3.2.9 Staff Keuangan Mencetak Laporan Keuangan
 
-##### 2.2.8 Staff Biasa Mencetak Laporan Keuangan
+##### 2.2.10 Staff Biasa Mencetak Laporan Keuangan
 
 Use Case: Staff Biasa Mencetak Laporan Keuangan <br>
 Diagram:![alt text](image/staffBiasaMencetakLaporanKeuangan.jpg?raw=true)
@@ -286,13 +309,34 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff biasa<br>
 
 1. Staff Biasa akan masuk ke halaman dashboard
 2. Sistem akan menampilkan grafik pemasukan dan pengeluaran
-3. Staff biasa melihat grafik pemasukan dan pengeluaran
-4. Staff Biasa mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pemasukan
-5. Staff Biasa mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pemasukan
-6. Staff Biasa mengklik save to exel untuk menyimpan dalam bentuk exel di bagian pemasukan untuk menyimpan pengeluaran
-7. Staff Biasa mengklik save to pdf untuk menyimpan dalam bentuk pdf di bagian pemasukan untuk menyimpan pengeluaran
+3. Staff Biasa melihat grafik pemasukan dan pengeluaran
+4. Staff Biasa memilih cetak Pelaporan pada sidebar
+5. Staff Biasa Memilih Data Pemasukan Atau Pengeluaran
+6. Staff Biasa menentukan Rentan waktu data yang ingin di tampilkan,kemudian klik Tampilkan
+6. Staff Biasa mengklik save to exel untuk menyimpan dalam bentuk exel dan akan tersimpan tergantung dengan data yang di pilih sebelumnya
+7. Staff Biasa mengklik save to pdf untuk menyimpan dalam bentuk pdf dan akan tersimpan tergantung dengan data yang di pilih sebelumnya
 
-Xref: Bagian 3.2.7 Staff Biasa Mencetak Laporan Keuangan
+Xref: Bagian 3.2.10 Staff Biasa Mencetak Laporan Keuangan
+
+##### 2.2.11 Admin Mencetak Laporan Keuangan
+
+Use Case: Admin Mencetak Laporan Keuangan <br>
+Diagram:![alt text](image/adminMencetakLaporanKeuangan.jpg?raw=true)
+<br>
+Deskripsi Singkat Sistem akan menampilkan dashboard Admin<br>
+
+1. Admin akan masuk ke halaman dashboard
+2. Sistem akan menampilkan grafik pemasukan dan pengeluaran
+3. Admin melihat grafik pemasukan dan pengeluaran
+4. Admin memilih cetak Pelaporan pada sidebar
+5. Admin Memilih Data Pemasukan Atau Pengeluaran
+6. Admin menentukan Rentan waktu data yang ingin di tampilkan,kemudian klik Tampilkan
+6. Admin mengklik save to exel untuk menyimpan dalam bentuk exel dan akan tersimpan tergantung dengan data yang di pilih sebelumnya
+7. Admin mengklik save to pdf untuk menyimpan dalam bentuk pdf dan akan tersimpan tergantung dengan data yang di pilih sebelumnya
+
+Xref: Bagian 3.2.11 Admin Mencetak Laporan Keuangan
+
+
 
 ## 2.3 Spesifikasi Kebutuhan non-fungsional
 - Tabel Kebutuhan Non-Fungsional
