@@ -59,28 +59,28 @@ Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:
 Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjelaskan gambaran umum dari aplikasi, sistem Interface aplikasi dan alur sistemnya. Bab terakhir menjelaskan tentang setiap fungsi yang digunakan secara teknisnya. Pada bab 2 dan 3 merupakan deskripsi dari aplikasi yang akan diterapkan pada aplikasi yang dibuat.
 
 # BAB II Gambaran umum
-Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari .dalam studi kasus Proyek II ini kami menganalisis kebutuhan Puskesmas dalam memanage keuangan Puskesmas tersebut.Kasus yang kami peroleh yaitu Sistem Manajemen Keuangan Puskesmas. Maka dari itu kami sebagai software engineering merancang sebuah sistem sesuai dengan kebutuhan Kepala Puskesmas dengan menerapkan Sistem Manajemen Keuangan Puskesmas Umban Sari. Sehingga memudahkan Petugas Puskesmas dalam mengelola keuangan.Software yang kami buat ini berbasis website dimana website sebagai admin, staff keuangan dan staff biasa. Sistem yang kami buat di dalamnya terdapat
-Data pemasukan,data pengeluaran,laporan keuangan,grafik data pemasukan dan pengeluaran (Untuk staff keuangan), grafik data pemasukan, grafik data pengeluaran dan laporan (Untuk Staff biasa),pengelolaan data user (Untuk admin).<br>
+Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari .dalam studi kasus Proyek FRAMEWORK ini kami menganalisis kebutuhan Puskesmas dalam memanajemen keuangan Puskesmas tersebut.Kasus yang kami peroleh yaitu Sistem Manajemen Keuangan Puskesmas. Maka dari itu kami sebagai software engineering merancang sebuah sistem sesuai dengan kebutuhan Kepala Puskesmas dengan menerapkan Sistem Manajemen Keuangan Puskesmas Umban Sari. Sehingga memudahkan Petugas Puskesmas dalam mengelola keuangan.Software yang kami buat ini berbasis website dimana website sebagai admin, staff keuangan dan staff biasa. Sistem yang kami buat di dalamnya terdapat
+Data pemasukan,data pengeluaran,laporan keuangan,grafik data pemasukan dan pengeluaran,cetak pelaporan pemasukan dan pengeluaran,upload pelaporan pemasukan dan pengeluaran (Untuk staff keuangan), grafik data pemasukan, grafik data pengeluaran,upload pelaporan pemasukan dan pengeluaran, cetak pelaporan pemasukan dan pengeluaran (Untuk Staff biasa),pengelolaan data user,Data pemasukan,data pengeluaran,laporan keuangan,grafik data pemasukan dan pengeluaran,cetak pelaporan pemasukan dan pengeluaran,upload pelaporan pemasukan dan pengeluaran (Untuk admin).<br>
 Berikut akan kami jelaskan sistem software kami,Admin fungsi utama yaitu :
 - Input Nama User (Staff Puskesmas)
-- Input Tempat Lahir
-- Input Tanggal Lahir
 - Input E-mail
+- Input password
+- Input nik
 - Input Jenis Kelamin
-- Input Agama
-- Input No Telepon
 - Input Alamat
 - Input Jabatan
+- Input level user
 
 Berikut ini fungsi staff keuangan:
 - Input Tanggal pengeluaran
 - Input Keterangan pengeluaran
-- Input Keperluan pengeluaran
+- Input judul laporan pengeluaran
 - Input jumlah pengeluaran
 - Input Tanggal pemasukan
 - Input Keterangan pemasukan
-- Input Sumber pemasukan
+- Input judul laporan pemasukan
 - Input jumlah pemasukan
+- Input file bukti pelaporan
 - Mencetak laporan pemasukan
 - Mencetak laporan pengeluaran
 - View Laporan keuangan
@@ -89,9 +89,12 @@ Berikut ini fungsi staff keuangan:
 - View Data Pemasukan
 
 Berikut ini fungsi staff biasa:
-- Input Pemaporan Keuangan Ke Staff Keuangan
+- Input Pelaporan Keuangan Ke Staff Keuangan
+- Input file bukti pelaporan
 - View grafik pengeluaran
+- View data pengeluaran
 - View grafik pemasukan
+- View data pemasukan
 - Mencetak laporan
 
 
@@ -435,13 +438,13 @@ Tabel user
 | ------ | ------ |---------|
 |    NIK    |  int      |Berisikan NIK yang sesuai dengan KTP|
 |    Nama    |      Varchar  |Nama dari user|
-|jenis_kelamin|Varchar|Jenis kelamin dari user|
+|jenisKelamin|Varchar|Jenis kelamin dari user|
 |Alamat|Varchar|Tempat tinggaluser|
 |email|Varchar|alamat email yang di daftarkan|
 |password|Varchar|berisikan password untuk login admin dan user|
-|pangkat|Varchar|kondisi jabatan user|
+|levelUser|Varchar|kondisi level akses bagi user|
 |jabatan|Varchar|posisi peran seorang user|
-|username|Varchar|nama yang digunakansebagai username|
+
 
 
 Tabel Data Pemasukan
@@ -466,11 +469,25 @@ Tabel Laporan
 | Data Item |Type |Deskripsi|
 | ------ | ------ |---------|
 |   idLaporan     |      int  |Menjelaskan id keberapa dari laporan ini|
-|    sumber    |     Varchar   |sumber dana dari mana pemasukan berasal|
+|    judulLaporan    |     Varchar   |Menjelaskan tentang apa pelaporan yang di uploadkan|
 |keterangan|Varchar|Menjelaskan tujuan dan keterangan dari laporan keuangan|
-|jumlahPengeluaran|int|jumlah kumulatif dari pengeluaran|
-|jumlahPemasukan|int|jumlah kumulatif dari pemasukan|
+|JumlahNominal|int|jumlah kumulatif dari pelaporan yang di uploadkan|
+|typeDana|Varchar|Menjelaskan kegunaan dana dalam sebuah kegiatan |
+|file|Varchar|Untuk Menampung bukti pelaporan bagi seorang user |
 
+Tabel Histori
+| Data Item |Type |Deskripsi|
+| ------ | ------ |---------|
+|    idHistory    |  int      |Berisikan id yang sesuai dengan urutan data di tambahahkan|
+|tanggalKeluar|date|tanggal dimana seorang user keluar dan tidak aktik lagi di Puskesmas|
+|    NIK    |  int      |Berisikan NIK yang sesuai dengan KTP|
+|    Nama    |      Varchar  |Nama dari user|
+|jenisKelamin|Varchar|Jenis kelamin dari user|
+|Alamat|Varchar|Tempat tinggaluser|
+|email|Varchar|alamat email yang di daftarkan|
+|password|Varchar|berisikan password untuk login admin dan user|
+|levelUser|Varchar|kondisi level akses bagi user|
+|jabatan|Varchar|posisi peran seorang user|
 <br><br>
 
 # Lampiran Bukti wawancara
