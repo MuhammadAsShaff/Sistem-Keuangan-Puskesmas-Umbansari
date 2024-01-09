@@ -137,37 +137,37 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 
 |  |  
 | ------ |
-|   ![alt text](InterfaceWebsite/admin/dashboard1.png?raw=true)     |        
-|      ![alt text](InterfaceWebsite/admin/dashboard2.png?raw=true)  |
-|      ![alt text](InterfaceWebsite/admin/dashboard3.png?raw=true)  | 
+|   ![alt text](InterfaceWebsite/admin/dashboard1.png?raw=true)   <br>         
+      ![alt text](InterfaceWebsite/admin/dashboard2.png?raw=true)  <br>
+      ![alt text](InterfaceWebsite/admin/dashboard3.png?raw=true)  | 
 
 - **Mockup Bagian Admin Data User ( Website )**
 
 |  |  
 | ------ |
-|   ![alt text](InterfaceWebsite/admin/dataUser.png?raw=true)     |        
-|      ![alt text](InterfaceWebsite/admin/dataUser2.png?raw=true)   |
+|   ![alt text](InterfaceWebsite/admin/dataUser.png?raw=true)             
+<br>     ![alt text](InterfaceWebsite/admin/dataUser2.png?raw=true)   |
 
 - **Mockup Bagian Admin Data Tidak aktif ( Website )**
 
 |  |  
 | ------ |
-|   ![alt text](InterfaceWebsite/admin/dataUserTidakAktif1.png?raw=true)     |        
-|      ![alt text](InterfaceWebsite/admin/dataUserTidakAktif2.png?raw=true)   |
+|   ![alt text](InterfaceWebsite/admin/dataUserTidakAktif1.png?raw=true)             
+<br>      ![alt text](InterfaceWebsite/admin/dataUserTidakAktif2.png?raw=true)   |
 
 - **Mockup Bagian Admin Data Pemasukan ( Website )**
 
 |  |  
 | ------ |
-|   ![alt text](InterfaceWebsite/admin/data pemasukan 1.png?raw=true)     |        
-|   ![alt text](InterfaceWebsite/admin/data pemasukan 2.png?raw=true)     |  
+|   ![alt text](InterfaceWebsite/admin/data pemasukan 1.png?raw=true)            
+<br>   ![alt text](InterfaceWebsite/admin/data pemasukan 2.png?raw=true)     |  
 
 - **Mockup Bagian Admin Data Pemasukan ( Website )**
 
 |  |  
 | ------ |
-|   ![alt text](InterfaceWebsite/admin/data pengeluaran 1.png?raw=true)     |        
-|    ![alt text](InterfaceWebsite/admin/data pengeluaran 2.png?raw=true)     | 
+|   ![alt text](InterfaceWebsite/admin/data pengeluaran 1.png?raw=true)             
+<br>    ![alt text](InterfaceWebsite/admin/data pengeluaran 2.png?raw=true)     | 
 
 - **Mockup Bagian Admin Laporan ( Website )**
 
@@ -179,16 +179,49 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 
 |  |  
 | ------ |
-|   ![alt text](InterfaceWebsite/admin/cetak pelaporan.png?raw=true)|
-|   ![alt text](InterfaceWebsite/admin/bagianCetakLaporan2.png?raw=true)|
+|   ![alt text](InterfaceWebsite/admin/cetak pelaporan.png?raw=true)
+<br>  ![alt text](InterfaceWebsite/admin/bagianCetakLaporan2.png?raw=true)|
 
 - **Mockup Bagian Admin Profile ( Website )**
 
 |  |  
 | ------ |
-|   ![alt text](InterfaceWebsite/admin/modal profile.png?raw=true)|
-|   ![alt text](InterfaceWebsite/admin/modalProfileDetail.png?raw=true)|
-|  ![alt text](InterfaceWebsite/admin/editProfileAdmin.png?raw=true)|
+|   ![alt text](InterfaceWebsite/admin/modal profile.png?raw=true) <br>
+   ![alt text](InterfaceWebsite/admin/modalProfileDetail.png?raw=true)<br>
+  ![alt text](InterfaceWebsite/admin/editProfileAdmin.png?raw=true)|
+
+- **Mockup Bagian Staff Keuangan Dashboard ( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffKeuangan/dashboard 1.png?raw=true)
+<br> ![alt text](InterfaceWebsite/staffKeuangan/dashboard 2.png?raw=true) |
+
+- **Mockup Bagian Staff Keuangan Data Pemasukan ( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffKeuangan/data pemasukan 1.png?raw=true)
+<br> ![alt text](InterfaceWebsite/staffKeuangan/data pemasukan 2.png?raw=true) |
+
+- **Mockup Bagian Staff Keuangan Data Pengeluaran ( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffKeuangan/data pengeluaran 1.png?raw=true)
+<br> ![alt text](InterfaceWebsite/staffKeuangan/data pengeluaran 2.png?raw=true) |
+
+- **Mockup Bagian Staff Keuangan Laporan( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffKeuangan/laporan.png?raw=true) |
+
+- **Mockup Bagian Staff Keuangan Cetak Keuangan( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffKeuangan/cetak pelaporan.png?raw=true) |
 
 ##### 2.1.3 Antarmuka perangkat keras
 ![alt text](image/Antarmuka_Perangkat_Keras.png?raw=true)
