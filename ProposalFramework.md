@@ -212,7 +212,7 @@ Diagram:![alt text](image/adminMengelolaUser.jpg?raw=true)
 <br>
 Deskripsi Singkat Sistem akan menampilkan dashboard admin yang di mana akan menampilkan form user<br>
 
-1. Admin Mengklik menu kelola user,setelah keluar form user, admin menginputkan Nama user,Tempat lahir user,Tanggal lahir,E-mail, Jenis Kelamin,Agama,No telepon,Alamat, Jabatan Kemudian klik tambahahkan User
+1. Admin Mengklik menu Data user,setelah keluar form user, admin menginputkan Nama user,E-mail, Jenis Kelamin,Alamat,Jabatan,Level User,Password Kemudian klik tambahahkan User
 2. Sistem akan menyimpan data user yang telah di inputkan, serta akan menampilkan data user yang telah di inputkan
 3. Admin bisa menghapus dan menupdate data user
 
