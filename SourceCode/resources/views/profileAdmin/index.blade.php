@@ -19,11 +19,9 @@
 @section('content')
 @component('components.breadcrumb')
 @slot('breadcrumb_title')
-<h3>Laporan</h3>
+<h3>profile</h3>
 @endslot
-<li class="breadcrumb-item">Starter Kit</li>
-<li class="breadcrumb-item">Color Version</li>
-<li class="breadcrumb-item active">Laporan</li>
+<li class="breadcrumb-item active">Profile</li>
 @endcomponent
 
 <div class="container mt-5">
