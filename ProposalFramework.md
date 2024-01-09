@@ -386,7 +386,6 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff Biasa<br>
 5. Staff biasa mengisi form yang muncul 
 6. Staff biasa mengupload file bukti laporan keuangan
 6. Klik simpan, dan sistem akan menampilkan laporan yang sudah di upload
-7. Staff biasa juga dapat menghapus laporan dengan cara klik icon sampah pada kolom aksi
 
 Xref: Bagian 3.2.12 Staff Biasa Melaporkan Keuangan
 
@@ -516,9 +515,9 @@ Logika Struktur terdapat pada bagian 3.3.1
 |    Xref    |    Bagian 2.2.8 Staff Keuangan Mencetak Laporan Keuangan    |
 |    Trigger    |    Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari    |
 |Precondition|Halaman dashboard Staff Keuangan|
-|Basic Path|1. Sistem akan menampilkan halaman dashboard staff keuangan dan sidebarnya<br> Staff Keuangan mengklik tombol laporan<br>3. Sistem akan menampilkan data laporan pemasukandan pengeluaran dalam bentuk grafik <br>4. Staff Keuangan mengklik tombol save to exel/ save to pdf <br>5. Staff keuangan mencetak berdasarkan format yang dia pilih sebelum |
+|Basic Path|1. Sistem akan menampilkan halaman dashboard staff keuangan dan sidebarnya<br> Staff Keuangan mengklik tombol Cetak laporan<br>3. Sistem akan menampilkan data laporan pemasukandan pengeluaran dalam bentuk grafik <br>4. Staff Keuangan mengklik tombol save to exel/ save to pdf <br>5. Staff keuangan mencetak berdasarkan format yang dia pilih sebelum |
 |Alternative|Tidak ada|
-|Pos Condition|Halaman Laporan staff keuangan|
+|Pos Condition|Halaman Cetak Laporan staff keuangan|
 |Exception Push|Tidak ada koneksi|
 
 
@@ -528,9 +527,9 @@ Logika Struktur terdapat pada bagian 3.3.1
 |    Xref    |    Bagian 2.2.9 Staff Biasa Mencetak Laporan Keuangan    |
 |    Trigger    |     Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari   |
 |Precondition|Halaman dashboard Staff Biasa|
-|Basic Path|1. Sistem akan menampilkan halaman dashboard staff biasa dan sidebarnya<br> Staff biasa mengklik tombol laporan<br>3. Sistem akan menampilkan data laporan pemasukandan pengeluaran dalam bentuk grafik <br>4. Staff biasa mengklik tombol save to exel/ save to pdf <br>5. Staff biasa mencetak berdasarkan format yang dia pilih sebelum|
+|Basic Path|1. Sistem akan menampilkan halaman dashboard staff biasa dan sidebarnya<br> Staff biasa mengklik tombol Cetak laporan<br>3. Sistem akan menampilkan data laporan pemasukandan pengeluaran dalam bentuk grafik <br>4. Staff biasa mengklik tombol save to exel/ save to pdf <br>5. Staff biasa mencetak berdasarkan format yang dia pilih sebelum|
 |Alternative|Tidak ada|
-|Pos Condition|Halaman Laporan staff biasa|
+|Pos Condition|Halaman Cetak Laporan staff biasa|
 |Exception Push|Tidak ada koneksi|
 
 ##### 3.2.10 Admin Mencetak Laporan Keuangan
@@ -538,10 +537,43 @@ Logika Struktur terdapat pada bagian 3.3.1
 | ------ | ------ |
 |    Xref    |    Bagian 2.2.10 Admin Mencetak Laporan Keuangan    |
 |    Trigger    |     Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari   |
-|Precondition|Halaman dashboard Staff Biasa|
-|Basic Path|1. Sistem akan menampilkan halaman dashboard Admin dan sidebarnya<br> Admin mengklik tombol laporan<br>3. Sistem akan menampilkan data laporan pemasukandan pengeluaran dalam bentuk grafik <br>4. Admin mengklik tombol save to exel/ save to pdf <br>5. Admin mencetak berdasarkan format yang dia pilih sebelum|
+|Precondition|Halaman dashboard Admin|
+|Basic Path|1. Sistem akan menampilkan halaman dashboard Admin dan sidebarnya<br> Admin mengklik tombol Cetak laporan<br>3. Sistem akan menampilkan data laporan pemasukandan pengeluaran dalam bentuk grafik <br>4. Admin mengklik tombol save to exel/ save to pdf <br>5. Admin mencetak berdasarkan format yang dia pilih sebelum|
 |Alternative|Tidak ada|
-|Pos Condition|Halaman Laporan staff biasa|
+|Pos Condition|Halaman Cetak Laporan Admin|
+|Exception Push|Tidak ada koneksi|
+
+##### 3.2.11 Admin Melaporkan Keuangan
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|    Xref    |    Bagian 2.2.11 Admin Melaporkan Keuangan    |
+|    Trigger    |     Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari   |
+|Precondition|Halaman dashboard Admin|
+|Basic Path|1. Sistem akan menampilkan halaman dashboard Admin dan sidebarnya<br>2.Admin mengklik tombol laporan<br>3. Sistem akan menampilkan data laporan yang sudah di upload <br><br>Mengupload file dan data Laporan Keuangan<br> 1. Admin mengklik tombol upload Laporan untuk mengupload file dan pengisian form laporan Keuangan <br>2. Admin Mengisi Form Laporan dan memilih file yang ingin di upload<br>3.Admin mengklik upload untuk mengupload laporan keuangan<br><br>Menghapus Laporan:<br>1.Admin dapat menhapus laporan dengan mengklik icob tong sampah pada kolom aksi<br>3.Setelah muncul modal konfirmasi klik tomol ya,yakin ingin menghapus<br>4.Simtem akan menampilkan data yang terbaru|
+|Alternative|Tidak ada|
+|Pos Condition|Halaman Laporan|
+|Exception Push|Tidak ada koneksi|
+
+##### 3.2.12 Staff Keuangan Melaporkan Keuangan
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|    Xref    |    Bagian 2.2.12 Staff Keuangan Melaporkan Keuangan    |
+|    Trigger    |     Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari   |
+|Precondition|Halaman dashboard Staff Keuangan|
+|Basic Path|1. Sistem akan menampilkan halaman dashboard Staff Keuangan dan sidebarnya<br>2. Staff mengklik tombol laporan<br>3. Sistem akan menampilkan data laporan yang sudah di upload <br><br>Mengupload file dan data Laporan Keuangan<br> 1. Staff Keuangan mengklik tombol upload Laporan untuk mengupload file dan pengisian form laporan Keuangan <br>2. Staff Keuangan Mengisi Form Laporan dan memilih file yang ingin di upload<br>3. Staff Keuangan mengklik upload untuk mengupload laporan keuangan<br><br>Menghapus Laporan:<br>1. Staff Keuangan dapat menhapus laporan dengan mengklik icob tong sampah pada kolom aksi<br>3.Setelah muncul modal konfirmasi klik tomol ya,yakin ingin menghapus<br>4.Simtem akan menampilkan data yang terbaru|
+|Alternative|Tidak ada|
+|Pos Condition|Halaman Laporan|
+|Exception Push|Tidak ada koneksi|
+
+##### 3.2.13 Staff Biasa Keuangan Melaporkan Keuangan
+| Nama Fungsi |Laporan |
+| ------ | ------ |
+|    Xref    |    Bagian 2.2.13 Staff Biasa Melaporkan Keuangan    |
+|    Trigger    |     Membuka aplikasi sistem Manajemen Keuangan Puskesmas Umban Sari   |
+|Precondition|Halaman dashboard Staff Biasa|
+|Basic Path|1. Sistem akan menampilkan halaman dashboard Staff Biasa dan sidebarnya<br>2. Staff Biasa mengklik tombol laporan<br>3. Sistem akan menampilkan data laporan yang sudah di upload <br><br>Mengupload file dan data Laporan Keuangan<br> 1. Staff Biasa mengklik tombol upload Laporan untuk mengupload file dan pengisian form laporan Keuangan <br>2. Staff Biasa Mengisi Form Laporan dan memilih file yang ingin di upload<br>3. Staff Biasa mengklik upload untuk mengupload laporan keuangan<br>|
+|Alternative|Tidak ada|
+|Pos Condition|Halaman Laporan|
 |Exception Push|Tidak ada koneksi|
 
 ## 3.3 Struktur Detail Kebutuhan Non-fungsional
