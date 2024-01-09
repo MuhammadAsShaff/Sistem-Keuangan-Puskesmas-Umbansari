@@ -334,9 +334,61 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Admin<br>
 6. Admin mengklik save to exel untuk menyimpan dalam bentuk exel dan akan tersimpan tergantung dengan data yang di pilih sebelumnya
 7. Admin mengklik save to pdf untuk menyimpan dalam bentuk pdf dan akan tersimpan tergantung dengan data yang di pilih sebelumnya
 
-Xref: Bagian 3.2.11 Admin Mencetak Laporan Keuangan
+Xref: Bagian 3.2.10 Admin Mencetak Laporan Keuangan
 
+##### 2.2.11 Admin Melaporkan Keuangan
 
+Use Case: Admin Melaporkan Keuangan <br>
+Diagram:![alt text](image/adminMelaporkanKeuangan.jpg?raw=true)
+<br>
+Deskripsi Singkat Sistem akan menampilkan dashboard Admin<br>
+
+1. Admin akan masuk ke halaman dashboard
+2. Sistem akan menampilkan grafik pemasukan dan pengeluaran
+3. Admin memilih Laporan pada sidebar
+4. Admin mengklik button upload laporan
+5. Admin mengisi form yang muncul 
+6. Admin mengupload file bukti laporan keuangan
+6. Klik simpan, dan sistem akan menampilkan laporan yang sudah di upload
+7. Admin juga dapat menghapus laporan dengan cara klik icon sampah pada kolom aksi
+
+Xref: Bagian 3.2.11 Admin Melaporkan Keuangan
+
+##### 2.2.12 Staff Keuangan Melaporkan Keuangan
+
+Use Case: Staff Keuangan Melaporkan Keuangan <br>
+Diagram:![alt text](image/staffKeuanganMelaporkanKeuangan.jpg?raw=true)
+<br>
+Deskripsi Singkat Sistem akan menampilkan dashboard Staff Keuangan<br>
+
+1. Staff Keuangan akan masuk ke halaman dashboard
+2. Sistem akan menampilkan grafik pemasukan dan pengeluaran
+3. Staff Keuangan memilih Laporan pada sidebar
+4. Staff Keuangan mengklik button upload laporan
+5. Staff Keuangan mengisi form yang muncul 
+6. Staff Keuangan mengupload file bukti laporan keuangan
+6. Klik simpan, dan sistem akan menampilkan laporan yang sudah di upload
+7. Staff Keuangan juga dapat menghapus laporan dengan cara klik icon sampah pada kolom aksi
+
+Xref: Bagian 3.2.12 Staff Keuangan Melaporkan Keuangan
+
+##### 2.2.13 Staff Biasa Melaporkan Keuangan
+
+Use Case: Staff Biasa Melaporkan Keuangan <br>
+Diagram:![alt text](image/staffBiasaMelaporkanKeuangan.jpg?raw=true)
+<br>
+Deskripsi Singkat Sistem akan menampilkan dashboard Staff Biasa<br>
+
+1. Staff BiasaKeuangan akan masuk ke halaman dashboard
+2. Sistem akan menampilkan grafik pemasukan dan pengeluaran
+3. Staff Biasa memilih Laporan pada sidebar
+4. Staff biasa mengklik button upload laporan
+5. Staff biasa mengisi form yang muncul 
+6. Staff biasa mengupload file bukti laporan keuangan
+6. Klik simpan, dan sistem akan menampilkan laporan yang sudah di upload
+7. Staff biasa juga dapat menghapus laporan dengan cara klik icon sampah pada kolom aksi
+
+Xref: Bagian 3.2.12 Staff Biasa Melaporkan Keuangan
 
 ## 2.3 Spesifikasi Kebutuhan non-fungsional
 - Tabel Kebutuhan Non-Fungsional
