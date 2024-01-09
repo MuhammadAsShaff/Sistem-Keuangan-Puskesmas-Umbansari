@@ -435,13 +435,13 @@ Tabel user
 | ------ | ------ |---------|
 |    NIK    |  int      |Berisikan NIK yang sesuai dengan KTP|
 |    Nama    |      Varchar  |Nama dari user|
-|jenis_kelamin|Varchar|Jenis kelamin dari user|
+|jenisKelamin|Varchar|Jenis kelamin dari user|
 |Alamat|Varchar|Tempat tinggaluser|
 |email|Varchar|alamat email yang di daftarkan|
 |password|Varchar|berisikan password untuk login admin dan user|
-|pangkat|Varchar|kondisi jabatan user|
+|levelUser|Varchar|kondisi level akses bagi user|
 |jabatan|Varchar|posisi peran seorang user|
-|username|Varchar|nama yang digunakansebagai username|
+
 
 
 Tabel Data Pemasukan
@@ -466,11 +466,25 @@ Tabel Laporan
 | Data Item |Type |Deskripsi|
 | ------ | ------ |---------|
 |   idLaporan     |      int  |Menjelaskan id keberapa dari laporan ini|
-|    sumber    |     Varchar   |sumber dana dari mana pemasukan berasal|
+|    judulLaporan    |     Varchar   |Menjelaskan tentang apa pelaporan yang di uploadkan|
 |keterangan|Varchar|Menjelaskan tujuan dan keterangan dari laporan keuangan|
-|jumlahPengeluaran|int|jumlah kumulatif dari pengeluaran|
-|jumlahPemasukan|int|jumlah kumulatif dari pemasukan|
+|JumlahNominal|int|jumlah kumulatif dari pelaporan yang di uploadkan|
+|typeDana|Varchar|Menjelaskan kegunaan dana dalam sebuah kegiatan |
+|file|Varchar|Untuk Menampung bukti pelaporan bagi seorang user |
 
+Tabel Histori
+| Data Item |Type |Deskripsi|
+| ------ | ------ |---------|
+|    idHistory    |  int      |Berisikan id yang sesuai dengan urutan data di tambahahkan|
+|tanggalKeluar|date|tanggal dimana seorang user keluar dan tidak aktik lagi di Puskesmas|
+|    NIK    |  int      |Berisikan NIK yang sesuai dengan KTP|
+|    Nama    |      Varchar  |Nama dari user|
+|jenisKelamin|Varchar|Jenis kelamin dari user|
+|Alamat|Varchar|Tempat tinggaluser|
+|email|Varchar|alamat email yang di daftarkan|
+|password|Varchar|berisikan password untuk login admin dan user|
+|levelUser|Varchar|kondisi level akses bagi user|
+|jabatan|Varchar|posisi peran seorang user|
 <br><br>
 
 # Lampiran Bukti wawancara
