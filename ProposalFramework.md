@@ -239,6 +239,47 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 ![alt text](InterfaceWebsite/staffKeuangan/detailModalProfile.png?raw=true)<br>
 ![alt text](InterfaceWebsite/staffKeuangan/editProfile.png?raw=true)|
 
+- **Mockup Bagian Staff Biasa Dashboard( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffBiasa/dashboard 1.png?raw=true) <br>
+![alt text](InterfaceWebsite/staffBiasa/dashboard 2.png?raw=true)|
+
+- **Mockup Bagian Staff Biasa Data Pemasukan( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffBiasa/data pemasukan 1.png?raw=true) <br>
+![alt text](InterfaceWebsite/staffBiasa/data pemasukan 2.png?raw=true)|
+
+- **Mockup Bagian Staff Biasa Data Pengeluaran( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffBiasa/data pengeluaran 1.png?raw=true) <br>
+![alt text](InterfaceWebsite/staffBiasa/data pengeluaran 2.png?raw=true)|
+
+- **Mockup Bagian Staff Biasa Laporan( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffBiasa/laporan.png?raw=true)|
+
+- **Mockup Bagian Staff Biasa Cetak Laporan( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffBiasa/cetak pelaporan.png?raw=true)|
+
+- **Mockup Bagian Staff Biasa Profile( Website )**
+
+|  |  
+| ------ |
+|   ![alt text](InterfaceWebsite/staffBiasa/modalProfile.png?raw=true)
+![alt text](InterfaceWebsite/staffBiasa/modalDetailProfile.png?raw=true)
+![alt text](InterfaceWebsite/staffBiasa/EditProfile.png?raw=true)|
+
 ##### 2.1.3 Antarmuka perangkat keras
 ![alt text](image/Antarmuka_Perangkat_Keras.png?raw=true)
 Antarmuka perangkat keras yang digunakan untuk mengoperasikan Perangkat Lunak Manajemen Keuangan Puskesmas Umban Sari   antara lain :
