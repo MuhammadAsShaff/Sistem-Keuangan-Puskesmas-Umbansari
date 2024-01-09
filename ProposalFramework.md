@@ -109,7 +109,7 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 
 ##### 2.1.2 Antarmuka pengguna
 
-- **Mockup Admin ( Website )**
+- **Mockup ( Figma )**
 
 |  |  |
 | ------ | ------ |
@@ -121,6 +121,12 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 |![alt text](InterfaceFigma/penambahanUserAdmin.jpeg?raw=true)<br>Pada halam ini terdapat inpitan untuk data diri dari seorang user yang ingin di daftarkan|![alt text](InterfaceFigma/penambahanUserAdmin__3_.jpeg?raw=true)<br>Pada halam ini terdapat inpitan untuk data diri dari seorang user yang ingin di daftarkan|
 |![alt text](InterfaceFigma/dashboarStaffBiasa.jpeg?raw=true)<br>Pada halaman ini terdapat sebuah grafik pengeluaran dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|![alt text](InterfaceFigma/konfirmasiHapus.jpeg?raw=true)<br>Pada modal ini terdapat konfirmasi terhadap data yang ingin di hapus|
 
+- **Mockup Bagian Landing Page ( Website )**
+
+|  |  
+| ------ |
+|    ![alt text](InterfaceWebsite/landingPage/1.png?raw=true)<br>![alt text](InterfaceWebsite/landingPage/2.png?raw=true)<br> ![alt text](InterfaceWebsite/landingPage/3.png?raw=true)   |
+        
 
 ##### 2.1.3 Antarmuka perangkat keras
 ![alt text](image/Antarmuka_Perangkat_Keras.png?raw=true)
@@ -387,7 +393,7 @@ Deskripsi Singkat Sistem akan menampilkan dashboard Staff Biasa<br>
 6. Staff biasa mengupload file bukti laporan keuangan
 6. Klik simpan, dan sistem akan menampilkan laporan yang sudah di upload
 
-Xref: Bagian 3.2.12 Staff Biasa Melaporkan Keuangan
+Xref: Bagian 3.2.13 Staff Biasa Melaporkan Keuangan
 
 ## 2.3 Spesifikasi Kebutuhan non-fungsional
 - Tabel Kebutuhan Non-Fungsional
