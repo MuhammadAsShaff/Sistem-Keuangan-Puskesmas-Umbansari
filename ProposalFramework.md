@@ -56,7 +56,7 @@ Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:
 
 
 ## 1.5 Overview
-Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjelaskan gambaran umum dari aplikasi, sistem interface aplikasi dan alur sistemnya. Bab terakhir menjelaskan tentang setiap fungsi yang digunakan secara teknisnya. Pada bab 2 dan 3 merupakan deskripsi dari aplikasi yang akan diterapkan pada aplikasi yang dibuat.
+Bab selanjutnya yaitu menjelaskan sistem yang di terapkan pada aplikasi. Menjelaskan gambaran umum dari aplikasi, sistem Interface aplikasi dan alur sistemnya. Bab terakhir menjelaskan tentang setiap fungsi yang digunakan secara teknisnya. Pada bab 2 dan 3 merupakan deskripsi dari aplikasi yang akan diterapkan pada aplikasi yang dibuat.
 
 # BAB II Gambaran umum
 Pada zaman era globalisasi perkembangan teknologi begitu sangat pesat, salah satunya ialah perkembangan teknologi di bidang software engineering dimana software engineering dapat digunakan dalam kehidupan sehari - hari .dalam studi kasus Proyek II ini kami menganalisis kebutuhan Puskesmas dalam memanage keuangan Puskesmas tersebut.Kasus yang kami peroleh yaitu Sistem Manajemen Keuangan Puskesmas. Maka dari itu kami sebagai software engineering merancang sebuah sistem sesuai dengan kebutuhan Kepala Puskesmas dengan menerapkan Sistem Manajemen Keuangan Puskesmas Umban Sari. Sehingga memudahkan Petugas Puskesmas dalam mengelola keuangan.Software yang kami buat ini berbasis website dimana website sebagai admin, staff keuangan dan staff biasa. Sistem yang kami buat di dalamnya terdapat
@@ -110,13 +110,13 @@ Sistem aplikasi Manajemen Keuangan Puskesmas Umban Sari memiliki 3 user yaitu st
 
 |  |  |
 | ------ | ------ |
-| ![alt text](Interface/HalamanBerandaMasuk.jpeg?raw=true)  <br> Pada halaman awal ini akan menampilkan contact dan beberapa informasi lainnya  |  ![alt text](Interface/HalamanLogin.jpeg?raw=true)    <br>Pada halaman ini user di harus memasukkan E-Mail dan password yang telah di daftarkan  |
-|    ![alt text](Interface/DashboardStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini terdapat bagian bagian yang menjelaskan jumlah pengeluaran pemasukan dan jumlah simpanan dana dari Puskesmas dan juga menampilkan grafik pemasukan dan pengeluaran   |  ![alt text](Interface/menuPemasukanStaffKeuangan.jpeg?raw=true)  <br>Pada halaman ini akan menampilkan tabel pemasukan dan juga terdapat tombol tambah data untuk menambahkan data pemasukan    |
-| ![alt text](Interface/menuPengeluaranStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini terdapat tabel pengeluaran dan juga terdapat tambah data untuk menambahkan data pengeluaran|![alt text](Interface/tambahDataPemasukanStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini terdapat beberapa kolom untuk menginputkan data Pemasukan dan terdapat tombol tambah data yang berguna untuk menyimpan masukkan data|
-|![alt text](Interface/tambahDataPengeluaranStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini ada halaman ini terdapat beberapa kolom untuk menginputkan data pengeluaran dan terdapat tombol tambah data yang berguna untuk menyimpan masukkan data |![alt text](Interface/LaporanKeuanganPengeluaran.jpeg?raw=true) <br>Pada halaman ini terdapat sebuah grafik pengeluaran dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|
-|![alt text](Interface/laporanStaffKeuanganPemasukan.jpeg?raw=true)<br>Pada halaman ini terdapat sebuah grafik pemasukan dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|![alt text](Interface/daftarUserAdmin.jpeg?raw=true)<br>Pada halaman ini terdapat tabel yang menampilkan daftar user yang aktif pada sistem Manajemen Keuangan Puskesmas Umban Sari|
-|![alt text](Interface/penambahanUserAdmin.jpeg?raw=true)<br>Pada halam ini terdapat inpitan untuk data diri dari seorang user yang ingin di daftarkan|![alt text](Interface/penambahanUserAdmin__3_.jpeg?raw=true)<br>Pada halam ini terdapat inpitan untuk data diri dari seorang user yang ingin di daftarkan|
-|![alt text](Interface/dashboarStaffBiasa.jpeg?raw=true)<br>Pada halaman ini terdapat sebuah grafik pengeluaran dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|![alt text](Interface/konfirmasiHapus.jpeg?raw=true)<br>Pada modal ini terdapat konfirmasi terhadap data yang ingin di hapus|
+| ![alt text](InterfaceFigma/HalamanBerandaMasuk.jpeg?raw=true)  <br> Pada halaman awal ini akan menampilkan contact dan beberapa informasi lainnya  |  ![alt text](InterfaceFigma/HalamanLogin.jpeg?raw=true)    <br>Pada halaman ini user di harus memasukkan E-Mail dan password yang telah di daftarkan  |
+|    ![alt text](InterfaceFigma/DashboardStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini terdapat bagian bagian yang menjelaskan jumlah pengeluaran pemasukan dan jumlah simpanan dana dari Puskesmas dan juga menampilkan grafik pemasukan dan pengeluaran   |  ![alt text](InterfaceFigma/menuPemasukanStaffKeuangan.jpeg?raw=true)  <br>Pada halaman ini akan menampilkan tabel pemasukan dan juga terdapat tombol tambah data untuk menambahkan data pemasukan    |
+| ![alt text](InterfaceFigma/menuPengeluaranStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini terdapat tabel pengeluaran dan juga terdapat tambah data untuk menambahkan data pengeluaran|![alt text](InterfaceFigma/tambahDataPemasukanStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini terdapat beberapa kolom untuk menginputkan data Pemasukan dan terdapat tombol tambah data yang berguna untuk menyimpan masukkan data|
+|![alt text](InterfaceFigma/tambahDataPengeluaranStaffKeuangan.jpeg?raw=true) <br> Pada halaman ini ada halaman ini terdapat beberapa kolom untuk menginputkan data pengeluaran dan terdapat tombol tambah data yang berguna untuk menyimpan masukkan data |![alt text](InterfaceFigma/LaporanKeuanganPengeluaran.jpeg?raw=true) <br>Pada halaman ini terdapat sebuah grafik pengeluaran dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|
+|![alt text](InterfaceFigma/laporanStaffKeuanganPemasukan.jpeg?raw=true)<br>Pada halaman ini terdapat sebuah grafik pemasukan dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|![alt text](InterfaceFigma/daftarUserAdmin.jpeg?raw=true)<br>Pada halaman ini terdapat tabel yang menampilkan daftar user yang aktif pada sistem Manajemen Keuangan Puskesmas Umban Sari|
+|![alt text](InterfaceFigma/penambahanUserAdmin.jpeg?raw=true)<br>Pada halam ini terdapat inpitan untuk data diri dari seorang user yang ingin di daftarkan|![alt text](InterfaceFigma/penambahanUserAdmin__3_.jpeg?raw=true)<br>Pada halam ini terdapat inpitan untuk data diri dari seorang user yang ingin di daftarkan|
+|![alt text](InterfaceFigma/dashboarStaffBiasa.jpeg?raw=true)<br>Pada halaman ini terdapat sebuah grafik pengeluaran dan terdapat tombol untuk menyimpan ke dalam bentuk exel atau pdf|![alt text](InterfaceFigma/konfirmasiHapus.jpeg?raw=true)<br>Pada modal ini terdapat konfirmasi terhadap data yang ingin di hapus|
 
 
 ##### 2.1.3 Antarmuka perangkat keras
@@ -296,7 +296,7 @@ Xref: Bagian 3.2.7 Staff Biasa Mencetak Laporan Keuangan
 
 | No | 	Deskripsi |
 | ------ | ------ |
-| 1  |    Semua interface dan fungsi menggunakan Bahasa Indonesia  |
+| 1  |    Semua Interface dan fungsi menggunakan Bahasa Indonesia  |
 | 2   |  Perangkat Lunak dapat dipakai di semua platofrm OS ( Admin, Staff Keuangan dan Staff Biasa ) |
 
 
