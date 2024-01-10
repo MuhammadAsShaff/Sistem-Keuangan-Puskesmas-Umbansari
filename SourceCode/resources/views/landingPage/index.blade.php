@@ -73,7 +73,7 @@ a:hover button.bt_main {
                     <ul class="menu-area-main">
                       <li><a href="#home">Home</a></li>
                       <li><a href="#about">Visi Misi</a></li>
-                      <li><a href="#gallery">Selogan</a></li>
+                      <li><a href="#gallery">Slogan</a></li>
                       <li><a href="#contact">Kontak</a></li>
                       <li class="active"><a href="{{ route('login.index') }}">Login</a></li>
                     </ul>
@@ -209,7 +209,7 @@ a:hover button.bt_main {
       <div class="row">
         <div class="col-sm-12">
           <div class="gallery_main">
-            <h1 class="gallery_taital"><strong><span class="our_text">4</span> Selogan Kami</strong></h1>
+            <h1 class="gallery_taital"><strong><span class="our_text">4</span> Slogan Kami</strong></h1>
           </div>
         </div>
         <div class="col-sm-12 gallery_maain">
